@@ -1,0 +1,1419 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0 0 119.5016 169.0094">
+<style text="style/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<!-- Page: 1/1 -->
+<text transform="translate(5.6906, 2.8453)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(38.9063, 6.4989)" font-family="serif" font-weight="bold" font-size="3.4927" text-anchor="start" fill="currentColor">
+<tspan>Suite 1 for Cello Solo</tspan>
+</text>
+<text transform="translate(49.6785, 9.9989)" font-family="serif" font-weight="bold" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Low-G Ukulele</tspan>
+</text>
+<text transform="translate(88.2718, 9.9989)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>Johann Sebastian Bach</tspan>
+</text>
+<text transform="translate(5.6906, 12.6281)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>Sarabande</tspan>
+</text>
+<text transform="translate(102.0657, 12.6281)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>BWV 1007</tspan>
+</text>
+<line transform="translate(14.2264, 24.4133)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<line transform="translate(14.2264, 22.9133)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<line transform="translate(14.2264, 21.4133)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<line transform="translate(14.2264, 19.9133)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<rect transform="translate(43.9607, 22.1633)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(76.6262, 22.1633)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(113.6210, 22.1633)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(88.6873, 21.4133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(88.8102, 22.0489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(83.3111, 21.4133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(83.4340, 22.0612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<rect transform="translate(84.0486, 22.1633)" x="-0.0650" y="0.1248" width="0.1300" height="3.6136" ry="0.0400" fill="currentColor"/>
+<path transform="translate(90.4894, 20.6633) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(89.4248, 22.1633)" x="-0.0650" y="-5.2420" width="0.1300" height="3.6006" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(94.9904, 22.9133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(95.1133, 23.5612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(95.7279, 22.1633)" x="-0.0650" y="-4.4689" width="0.1300" height="4.3442" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(66.2243, 19.9133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(66.3472, 20.5489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(66.9618, 22.1633)" x="-0.0650" y="-1.3586" width="0.1300" height="4.1802" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(71.3505, 21.4133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(71.4734, 22.0489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(72.0880, 22.1633)" x="-0.0650" y="0.1414" width="0.1300" height="3.5969" ry="0.0400" fill="currentColor"/>
+<path transform="translate(45.4338, 22.1633)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.6869 -2.3730C2.5963 -4.4769 8.6623 -5.2320 11.0292 -3.6603L11.0292 -3.6603C8.6771 -5.1129 2.6111 -4.3578 0.6869 -2.3730z"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(78.1850, 19.9133)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(78.3079, 20.5373)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<rect transform="translate(78.9225, 22.1633)" x="-0.0650" y="-1.3741" width="0.1300" height="4.1957" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(108.3453, 21.4133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(108.4682, 22.0489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(109.0828, 22.1633)" x="-0.0650" y="0.1414" width="0.1300" height="3.6192" ry="0.0400" fill="currentColor"/>
+<polygon transform="translate(103.3916, 26.8533)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.7162 -1.1400 5.7162 -0.7400 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(78.8575, 24.9733)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.2162 0.7400 5.2162 1.1400 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(88.6873, 22.1633)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8051 -6.2320C3.7193 -7.8929 12.6217 -6.4041 14.8369 -3.8853L14.8369 -3.8853C12.6019 -6.2857 3.6995 -7.7746 0.8051 -6.2320z"/>
+<polygon transform="translate(89.3598, 16.9133)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="12.1896 1.3000 12.1896 1.7000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(95.6629, 18.4770)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.8865 0.5269 5.8865 0.9269 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(95.6629, 19.2677)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.8865 0.5269 5.8865 0.9269 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(95.6629, 20.0584)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.8865 0.5269 5.8865 0.9269 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(66.8968, 24.9733)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="5.2162 0.7400 5.2162 1.1400 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(66.2243, 22.1633)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8364 -3.6603C2.4176 -4.5195 4.9681 -3.8851 5.9626 -2.3853L5.9626 -2.3853C4.9391 -3.7687 2.3886 -4.4030 0.8364 -3.6603z"/>
+<polygon transform="translate(46.1063, 25.1923)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.4324 -0.9500 10.4324 -0.5500 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(46.1063, 25.9133)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.4324 -0.9500 10.4324 -0.5500 0.0400 0.2000 0.0400 -0.2000"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(96.9226, 22.9133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(97.0455, 23.5612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(97.6601, 22.1633)" x="-0.0650" y="-4.2319" width="0.1300" height="4.1072" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(98.8548, 22.9133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(98.9777, 23.5489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(99.5923, 22.1633)" x="-0.0650" y="-3.9950" width="0.1300" height="3.8535" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(100.7869, 24.4133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(100.9099, 25.0612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(101.5244, 22.1633)" x="-0.0650" y="-3.7580" width="0.1300" height="5.1332" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(102.7191, 22.9133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(102.8420, 23.5489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(103.4566, 22.1633)" x="-0.0650" y="1.6414" width="0.1300" height="3.0379" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(30.0193, 19.9133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(30.1422, 20.5489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(30.0193, 24.4133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(30.1422, 25.0489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(30.0193, 21.4133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(30.1422, 22.0489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<path transform="translate(31.8214, 19.1633) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(30.7568, 22.1633)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(30.5068, 22.1633)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(31.0068, 22.1633)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(38.5845, 19.9133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(38.7074, 20.5612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(39.3220, 22.1633)" x="-0.0650" y="-6.7500" width="0.1300" height="3.6252" ry="0.0400" fill="currentColor"/>
+<path transform="translate(39.3870, 15.4533) scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(45.4338, 21.4133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(45.5567, 22.0612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(23.3686, 22.1633)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(22.6311, 19.9133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(22.7540, 20.5612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(22.6311, 24.4133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(22.7540, 25.0489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(22.6311, 22.9133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(22.7540, 23.5612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<path transform="translate(14.8264, 22.1633) scale(0.0040, -0.0040)" d="M267 -425c0 -24 -23 -27 -43 -27c-45 0 -84 31 -84 75c0 82 118 130 234 130c104 0 215 -22 215 -103c0 -51 -31 -86 -69 -110c58 -11 102 -36 102 -91c0 -90 -94 -158 -179 -158c-41 0 -80 15 -108 52c-2 2 -3 5 -3 8c0 12 16 25 28 25c4 0 8 -1 10 -4
+c11 -15 27 -21 44 -21c43 0 95 40 95 93c0 46 -49 63 -100 63h-1c-6 0 -8 8 -8 16c0 11 5 24 18 24h1c36 0 68 39 68 77c0 45 -36 68 -80 76c-11 -62 -31 -173 -40 -220c-20 -102 -84 -202 -159 -202c-44 0 -68 34 -96 53c-3 2 -4 5 -4 9c0 11 12 26 24 26c3 0 5 0 7 -2
+c20 -13 36 -35 65 -35c65 0 89 99 89 195v8c0 35 9 109 18 163c-39 -13 -70 -40 -70 -70c0 -15 8 -28 19 -34c4 -3 7 -9 7 -16zM301 -83c-43 -41 -114 -105 -173 -105c-33 0 -52 21 -78 32c-3 1 -5 5 -5 9c0 11 11 28 25 28c2 0 5 -1 7 -2c16 -7 30 -18 50 -18
+c34 0 65 27 91 54c100 102 175 219 214 336c9 27 33 37 57 37c29 0 57 -15 57 -31c0 -2 -1 -4 -2 -6c-4 -116 -9 -233 -16 -350v-9c0 -16 3 -30 21 -30c16 0 35 13 53 19l2 1c5 0 9 -8 9 -17c0 -8 -3 -16 -12 -19c-29 -9 -54 -34 -87 -34c-32 0 -45 29 -53 58
+c-16 61 -26 125 -31 191c-27 -35 -56 -68 -87 -101c11 -20 33 -33 64 -33c4 0 8 1 12 1c5 0 8 -7 8 -15c0 -25 -34 -29 -56 -29c-32 0 -56 12 -70 33zM288 540c0 -23 -23 -24 -42 -24c-49 0 -91 36 -91 84c0 95 125 120 232 120c49 0 119 -41 171 -41c38 0 77 15 110 41
+c3 2 6 3 9 3c11 0 23 -11 23 -19c0 -2 -1 -3 -2 -4c-40 -45 -95 -71 -148 -71c-15 0 -31 2 -44 6c-9 -59 -26 -151 -35 -193c-22 -96 -88 -185 -163 -185c-52 0 -81 42 -115 64c-3 2 -4 5 -4 9c0 11 12 26 23 26c2 0 5 -1 7 -2c23 -15 43 -46 75 -46c56 0 82 77 85 150
+c2 45 13 150 22 208c-12 3 -31 5 -32 5c-51 0 -113 -21 -113 -70c0 -18 10 -36 24 -43c5 -3 8 -10 8 -18z" fill="currentColor"/>
+<path transform="translate(19.1630, 22.1633) scale(0.0040, -0.0040)" d="M150 477c-29 0 -59 -8 -59 -33c0 -22 36 -25 36 -47c0 -32 -26 -58 -58 -58s-57 26 -57 58c0 65 67 103 138 103c91 0 169 -33 169 -114c0 -43 -4 -82 -42 -100c-9 -4 -14 -12 -14 -21s5 -18 14 -22c41 -19 56 -57 56 -103c0 -92 -79 -140 -179 -140
+c-79 0 -154 42 -154 113c0 36 30 66 66 66s65 -30 65 -66c0 -25 -40 -28 -40 -53c0 -27 32 -37 63 -37c49 0 63 61 63 117v16c0 54 -2 94 -50 94h-80c-10 0 -14 8 -14 15s4 14 14 14h80c49 0 50 43 50 99v8c0 54 -18 91 -67 91z" fill="currentColor"/>
+<path transform="translate(19.0264, 24.1793) scale(0.0040, -0.0040)" d="M196 117h117c0 -48 27 -94 72 -94c8 0 12 -5 12 -11s-4 -12 -12 -12c-44 0 -87 13 -131 13s-87 -13 -131 -13c-8 0 -12 6 -12 12s4 11 12 11c45 0 73 46 73 94zM204 307c22 14 44 29 60 50c11 15 19 33 27 50c2 4 5 6 9 6c6 0 13 -5 13 -14v-245h72c10 0 15 -7 15 -14
+s-5 -15 -15 -15h-72v-8h-117v8h-167c-23 0 -31 14 -31 23c0 3 1 5 2 6c80 93 138 207 138 330c0 10 7 19 16 16c23 -7 47 -13 71 -13s48 6 71 13c14 4 23 -9 17 -16l-284 -330h167v131c0 8 1 17 8 22z" fill="currentColor"/>
+<rect transform="translate(23.3686, 22.1633)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(52.4120, 19.9133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(52.5349, 20.5612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(53.1495, 22.1633)" x="-0.0650" y="-1.3752" width="0.1300" height="4.6208" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(55.7761, 19.9133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(55.8990, 20.5489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(56.5136, 22.1633)" x="-0.0650" y="-1.3586" width="0.1300" height="4.3632" ry="0.0400" fill="currentColor"/>
+<path transform="translate(59.7257, 15.3193) scale(0.0040, -0.0040)" d="M-297 227c0 -22 17 -30 39 -30c39 0 72 14 103 28l5 24c-23 17 -50 29 -81 29c-32 0 -66 -16 -66 -51zM-26 104c0 -61 -47 -115 -98 -115c-39 0 -56 44 -56 91c0 14 1 28 4 41l15 76c-31 -13 -62 -25 -101 -25c-35 0 -60 18 -60 51c0 51 49 80 96 80c31 0 58 -10 82 -25
+l46 232c6 -3 13 -5 20 -5c22 0 48 16 68 35l-53 -266l64 36c26 14 51 20 74 20c29 0 53 -10 64 -28c18 20 44 30 69 30c36 0 69 -22 69 -69c0 -45 -27 -90 -65 -90c-25 0 -38 22 -38 48c0 41 29 64 60 64h3c-8 14 -23 20 -38 20c-24 0 -50 -16 -55 -43l-54 -270
+c-11 7 -24 11 -38 11s-29 -4 -43 -11l54 270v7c0 16 -12 26 -29 26c-7 0 -16 -3 -24 -7l-79 -44l-7 -31c27 -31 50 -67 50 -109zM-86 39c23 0 35 34 35 61c0 30 -14 55 -32 78l-5 -27c-4 -18 -13 -56 -13 -83c0 -17 4 -29 15 -29z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(58.9882, 19.9133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(59.1111, 20.5612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(58.9882, 24.4133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(59.1111, 25.0489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(58.9882, 22.9133)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(59.1111, 23.5612)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(59.7257, 22.1633)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(59.7257, 22.1633)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(46.1713, 22.1633)" x="-0.0650" y="0.1248" width="0.1300" height="3.6206" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(49.0479, 19.9133)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(49.1708, 20.5489)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(49.7854, 22.1633)" x="-0.0650" y="-1.3586" width="0.1300" height="4.8451" ry="0.0400" fill="currentColor"/>
+<line transform="translate(5.6906, 36.6283)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 35.1283)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 33.6283)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 32.1283)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<rect transform="translate(40.6680, 34.3783)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(76.8077, 34.3783)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(113.6210, 34.3783)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(81.2131, 33.6283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(81.3360, 34.2639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(81.9506, 34.3783)" x="-0.0650" y="0.1414" width="0.1300" height="4.0984" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(84.3827, 33.6283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(84.5056, 34.2639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(85.1202, 34.3783)" x="-0.0650" y="0.1414" width="0.1300" height="4.6187" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(87.3023, 35.1283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(87.4252, 35.7762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(88.0398, 34.3783)" x="-0.0650" y="1.6248" width="0.1300" height="3.6146" ry="0.0400" fill="currentColor"/>
+<path transform="translate(91.2094, 30.0517) scale(0.0040, -0.0040)" d="M-297 227c0 -22 17 -30 39 -30c39 0 72 14 103 28l5 24c-23 17 -50 29 -81 29c-32 0 -66 -16 -66 -51zM-26 104c0 -61 -47 -115 -98 -115c-39 0 -56 44 -56 91c0 14 1 28 4 41l15 76c-31 -13 -62 -25 -101 -25c-35 0 -60 18 -60 51c0 51 49 80 96 80c31 0 58 -10 82 -25
+l46 232c6 -3 13 -5 20 -5c22 0 48 16 68 35l-53 -266l64 36c26 14 51 20 74 20c29 0 53 -10 64 -28c18 20 44 30 69 30c36 0 69 -22 69 -69c0 -45 -27 -90 -65 -90c-25 0 -38 22 -38 48c0 41 29 64 60 64h3c-8 14 -23 20 -38 20c-24 0 -50 -16 -55 -43l-54 -270
+c-11 7 -24 11 -38 11s-29 -4 -43 -11l54 270v7c0 16 -12 26 -29 26c-7 0 -16 -3 -24 -7l-79 -44l-7 -31c27 -31 50 -67 50 -109zM-86 39c23 0 35 34 35 61c0 30 -14 55 -32 78l-5 -27c-4 -18 -13 -56 -13 -83c0 -17 4 -29 15 -29z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(90.4719, 35.1283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(90.5948, 35.7762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<path transform="translate(92.2740, 34.3783) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(91.2094, 34.3783)" x="-0.0650" y="-3.7425" width="0.1300" height="3.6178" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(74.5474, 34.3783)" x="-0.0650" y="-1.3586" width="0.1300" height="4.5650" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(66.9707, 35.1283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(67.0937, 35.7762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(67.7082, 34.3783)" x="-0.0650" y="1.6248" width="0.1300" height="3.3064" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(70.3903, 33.6283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(70.5132, 34.2639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(71.1278, 34.3783)" x="-0.0650" y="0.1414" width="0.1300" height="3.9274" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(73.8099, 32.1283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(73.9328, 32.7639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<path transform="translate(14.9101, 34.3783)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8215 -3.6603C2.5732 -4.6884 5.7185 -4.0298 6.9106 -2.3853L6.9106 -2.3853C5.6939 -3.9124 2.5486 -4.5710 0.8215 -3.6603z"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(78.2935, 32.1283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(78.4165, 32.7762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(79.0310, 34.3783)" x="-0.0650" y="-1.3752" width="0.1300" height="5.1359" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(110.5526, 33.6283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(110.6755, 34.2762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(111.2901, 34.3783)" x="-0.0650" y="0.1248" width="0.1300" height="4.1914" ry="0.0400" fill="currentColor"/>
+<polygon transform="translate(101.4664, 38.9073)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.8488 -1.1400 9.8488 -0.7400 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(101.4664, 39.6283)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.8488 -1.1400 9.8488 -0.7400 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(91.1444, 30.6283)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.1511 0.7400 8.1511 1.1400 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(96.9447, 32.0149)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.3508 0.0744 2.3508 0.4744 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(96.9447, 32.7359)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.3508 0.0744 2.3508 0.4744 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(96.2722, 34.3783)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7858 -4.0669C3.6343 -5.8713 12.7188 -4.7937 15.0662 -2.3730L15.0662 -2.3730C12.7047 -4.6745 3.6202 -5.7521 0.7858 -4.0669z"/>
+<polygon transform="translate(78.9660, 37.4073)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.0988 1.3000 9.0988 1.7000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(78.9660, 38.1283)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.0988 1.3000 9.0988 1.7000 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(81.2131, 34.3783)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8363 -2.3853C2.6361 -3.3532 5.7876 -2.5705 6.9254 -0.8730L6.9254 -0.8730C5.7587 -2.4540 2.6071 -3.2368 0.8363 -2.3853z"/>
+<polygon transform="translate(64.2236, 39.4673)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.3488 -2.8200 10.3488 -2.4200 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(64.2236, 40.1883)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.3488 -2.8200 10.3488 -2.4200 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(55.0038, 31.5683)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.1403 -0.2000 6.1403 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(60.0190, 32.2893)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.2000 1.1250 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(63.5511, 34.3783)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.5795 0.6270C1.9141 -2.0011 8.0305 -4.5573 10.8383 -3.6603L10.8383 -3.6603C8.0768 -4.4465 1.9604 -1.8904 0.5795 0.6270z"/>
+<polygon transform="translate(42.8254, 37.9673)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.0988 1.4900 9.0988 1.8900 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(42.8254, 38.6883)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.0988 1.4900 9.0988 1.8900 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(45.0725, 34.3783)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8347 -2.3730C2.6296 -3.3472 5.7805 -2.5774 6.9239 -0.8853L6.9239 -0.8853C5.7520 -2.4608 2.6011 -3.2306 0.8347 -2.3730z"/>
+<polygon transform="translate(31.6460, 38.1283)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="4.8271 0.7400 4.8271 1.1400 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(30.9735, 34.3783)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8621 -2.3853C2.4213 -3.1074 4.7469 -2.3649 5.5992 -0.8730L5.5992 -0.8730C4.7104 -2.2506 2.3848 -2.9931 0.8621 -2.3853z"/>
+<polygon transform="translate(12.1630, 37.9673)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.5988 -0.2000 9.5988 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(12.1630, 38.6883)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.5988 -0.2000 9.5988 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(96.2722, 36.6283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(96.3951, 37.2762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(97.0097, 34.3783)" x="-0.0650" y="-3.0769" width="0.1300" height="4.4521" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(98.5330, 36.6283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(98.6559, 37.2762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(99.2705, 34.3783)" x="-0.0650" y="-2.8175" width="0.1300" height="4.1927" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(100.7939, 35.1283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(100.9168, 35.7762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<rect transform="translate(101.5314, 34.3783)" x="-0.0650" y="1.6248" width="0.1300" height="3.6191" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(103.9635, 35.1283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(104.0864, 35.7762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(104.7009, 34.3783)" x="-0.0650" y="1.6248" width="0.1300" height="3.3178" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(107.3830, 33.6283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(107.5060, 34.2639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(108.1205, 34.3783)" x="-0.0650" y="0.1414" width="0.1300" height="4.4760" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(30.9735, 33.6283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(31.0965, 34.2639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(20.9993, 33.6283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(21.1222, 34.2639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(21.7368, 34.3783)" x="-0.0650" y="0.1414" width="0.1300" height="4.1686" ry="0.0400" fill="currentColor"/>
+<path transform="translate(24.9064, 31.7033) scale(0.0040, -0.0040)" d="M-297 227c0 -22 17 -30 39 -30c39 0 72 14 103 28l5 24c-23 17 -50 29 -81 29c-32 0 -66 -16 -66 -51zM-26 104c0 -61 -47 -115 -98 -115c-39 0 -56 44 -56 91c0 14 1 28 4 41l15 76c-31 -13 -62 -25 -101 -25c-35 0 -60 18 -60 51c0 51 49 80 96 80c31 0 58 -10 82 -25
+l46 232c6 -3 13 -5 20 -5c22 0 48 16 68 35l-53 -266l64 36c26 14 51 20 74 20c29 0 53 -10 64 -28c18 20 44 30 69 30c36 0 69 -22 69 -69c0 -45 -27 -90 -65 -90c-25 0 -38 22 -38 48c0 41 29 64 60 64h3c-8 14 -23 20 -38 20c-24 0 -50 -16 -55 -43l-54 -270
+c-11 7 -24 11 -38 11s-29 -4 -43 -11l54 270v7c0 16 -12 26 -29 26c-7 0 -16 -3 -24 -7l-79 -44l-7 -31c27 -31 50 -67 50 -109zM-86 39c23 0 35 34 35 61c0 30 -14 55 -32 78l-5 -27c-4 -18 -13 -56 -13 -83c0 -17 4 -29 15 -29z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(24.1689, 33.6283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(24.2918, 34.2762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(24.9064, 34.3783)" x="-0.0650" y="0.1248" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(31.7110, 34.3783)" x="-0.0650" y="0.1414" width="0.1300" height="3.6211" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(35.7106, 35.1283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(35.8336, 35.7762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(36.4481, 34.3783)" x="-0.0650" y="1.6248" width="0.1300" height="3.0527" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(42.1529, 32.1283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(42.2758, 32.7639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(42.8904, 34.3783)" x="-0.0650" y="-1.3586" width="0.1300" height="5.6806" ry="0.0400" fill="currentColor"/>
+<text transform="translate(4.5638, 31.0782)" font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<path transform="translate(6.2906, 34.3783) scale(0.0040, -0.0040)" d="M267 -425c0 -24 -23 -27 -43 -27c-45 0 -84 31 -84 75c0 82 118 130 234 130c104 0 215 -22 215 -103c0 -51 -31 -86 -69 -110c58 -11 102 -36 102 -91c0 -90 -94 -158 -179 -158c-41 0 -80 15 -108 52c-2 2 -3 5 -3 8c0 12 16 25 28 25c4 0 8 -1 10 -4
+c11 -15 27 -21 44 -21c43 0 95 40 95 93c0 46 -49 63 -100 63h-1c-6 0 -8 8 -8 16c0 11 5 24 18 24h1c36 0 68 39 68 77c0 45 -36 68 -80 76c-11 -62 -31 -173 -40 -220c-20 -102 -84 -202 -159 -202c-44 0 -68 34 -96 53c-3 2 -4 5 -4 9c0 11 12 26 24 26c3 0 5 0 7 -2
+c20 -13 36 -35 65 -35c65 0 89 99 89 195v8c0 35 9 109 18 163c-39 -13 -70 -40 -70 -70c0 -15 8 -28 19 -34c4 -3 7 -9 7 -16zM301 -83c-43 -41 -114 -105 -173 -105c-33 0 -52 21 -78 32c-3 1 -5 5 -5 9c0 11 11 28 25 28c2 0 5 -1 7 -2c16 -7 30 -18 50 -18
+c34 0 65 27 91 54c100 102 175 219 214 336c9 27 33 37 57 37c29 0 57 -15 57 -31c0 -2 -1 -4 -2 -6c-4 -116 -9 -233 -16 -350v-9c0 -16 3 -30 21 -30c16 0 35 13 53 19l2 1c5 0 9 -8 9 -17c0 -8 -3 -16 -12 -19c-29 -9 -54 -34 -87 -34c-32 0 -45 29 -53 58
+c-16 61 -26 125 -31 191c-27 -35 -56 -68 -87 -101c11 -20 33 -33 64 -33c4 0 8 1 12 1c5 0 8 -7 8 -15c0 -25 -34 -29 -56 -29c-32 0 -56 12 -70 33zM288 540c0 -23 -23 -24 -42 -24c-49 0 -91 36 -91 84c0 95 125 120 232 120c49 0 119 -41 171 -41c38 0 77 15 110 41
+c3 2 6 3 9 3c11 0 23 -11 23 -19c0 -2 -1 -3 -2 -4c-40 -45 -95 -71 -148 -71c-15 0 -31 2 -44 6c-9 -59 -26 -151 -35 -193c-22 -96 -88 -185 -163 -185c-52 0 -81 42 -115 64c-3 2 -4 5 -4 9c0 11 12 26 23 26c2 0 5 -1 7 -2c23 -15 43 -46 75 -46c56 0 82 77 85 150
+c2 45 13 150 22 208c-12 3 -31 5 -32 5c-51 0 -113 -21 -113 -70c0 -18 10 -36 24 -43c5 -3 8 -10 8 -18z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 33.6283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 34.2762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(12.2280, 34.3783)" x="-0.0650" y="0.1248" width="0.1300" height="4.1852" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(14.9101, 32.1283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(15.0331, 32.7639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(15.6476, 34.3783)" x="-0.0650" y="-1.3586" width="0.1300" height="5.6686" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(18.0797, 32.1283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(18.2026, 32.7762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(18.8172, 34.3783)" x="-0.0650" y="-1.3752" width="0.1300" height="5.6852" ry="0.0400" fill="currentColor"/>
+<path transform="translate(56.1333, 35.8783) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(47.9921, 35.1283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(48.1150, 35.7762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(48.7296, 34.3783)" x="-0.0650" y="1.6248" width="0.1300" height="3.7771" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(51.1617, 35.1283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(51.2846, 35.7639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(51.8992, 34.3783)" x="-0.0650" y="1.6414" width="0.1300" height="4.3465" ry="0.0400" fill="currentColor"/>
+<path transform="translate(55.0688, 30.9843) scale(0.0040, -0.0040)" d="M-297 227c0 -22 17 -30 39 -30c39 0 72 14 103 28l5 24c-23 17 -50 29 -81 29c-32 0 -66 -16 -66 -51zM-26 104c0 -61 -47 -115 -98 -115c-39 0 -56 44 -56 91c0 14 1 28 4 41l15 76c-31 -13 -62 -25 -101 -25c-35 0 -60 18 -60 51c0 51 49 80 96 80c31 0 58 -10 82 -25
+l46 232c6 -3 13 -5 20 -5c22 0 48 16 68 35l-53 -266l64 36c26 14 51 20 74 20c29 0 53 -10 64 -28c18 20 44 30 69 30c36 0 69 -22 69 -69c0 -45 -27 -90 -65 -90c-25 0 -38 22 -38 48c0 41 29 64 60 64h3c-8 14 -23 20 -38 20c-24 0 -50 -16 -55 -43l-54 -270
+c-11 7 -24 11 -38 11s-29 -4 -43 -11l54 270v7c0 16 -12 26 -29 26c-7 0 -16 -3 -24 -7l-79 -44l-7 -31c27 -31 50 -67 50 -109zM-86 39c23 0 35 34 35 61c0 30 -14 55 -32 78l-5 -27c-4 -18 -13 -56 -13 -83c0 -17 4 -29 15 -29z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(54.3313, 36.6283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(54.4542, 37.2762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(55.0688, 34.3783)" x="-0.0650" y="-2.8100" width="0.1300" height="4.1852" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(60.3816, 36.6283)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(60.5045, 37.2639)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(61.1190, 34.3783)" x="-0.0650" y="-2.8100" width="0.1300" height="4.1686" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(63.5511, 36.6283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(63.6741, 37.2762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(64.2886, 34.3783)" x="-0.0650" y="3.1248" width="0.1300" height="2.6688" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(45.0725, 33.6283)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(45.1954, 34.2762)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(45.8100, 34.3783)" x="-0.0650" y="0.1248" width="0.1300" height="4.7372" ry="0.0400" fill="currentColor"/>
+<line transform="translate(5.6906, 51.9006)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 50.4006)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 48.9006)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 47.4006)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<rect transform="translate(113.6210, 49.6506)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<path transform="translate(82.0513, 48.1506) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<path transform="translate(82.0513, 51.1506) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<path transform="translate(84.6813, 48.1506) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<path transform="translate(84.6813, 51.1506) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(84.1913, 49.6506)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(83.2913, 49.6506)" x="0.0000" y="-2.2500" width="0.6000" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(82.8013, 49.6506)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(51.8348, 49.6506)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(87.0813, 49.6506)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(87.0813, 49.6506)" x="-0.0650" y="-5.2430" width="0.1300" height="3.6182" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(86.3438, 51.9006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(86.4667, 52.5486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(86.3438, 50.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(86.4667, 51.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(86.3438, 48.9006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(86.4667, 49.5486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(91.5124, 50.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(91.6353, 51.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(92.2499, 49.6506)" x="-0.0650" y="-4.6835" width="0.1300" height="4.5587" ry="0.0400" fill="currentColor"/>
+<path transform="translate(15.1259, 49.6506)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 -3.6480C2.3387 -5.0930 5.9069 -5.0930 7.5082 -3.6480L7.5082 -3.6480C5.9069 -4.9730 2.3387 -4.9730 0.7375 -3.6480z"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(56.8726, 50.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(56.9955, 51.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(57.6101, 49.6506)" x="-0.0650" y="-4.0134" width="0.1300" height="3.8886" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(60.5079, 48.9006)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(60.6309, 49.5362)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(61.2454, 49.6506)" x="-0.0650" y="-4.2722" width="0.1300" height="2.6307" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(63.6433, 50.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(63.7662, 51.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<rect transform="translate(64.3808, 49.6506)" x="-0.0650" y="-4.4954" width="0.1300" height="4.3706" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(67.0286, 50.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(67.1515, 51.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(67.7661, 49.6506)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(74.5994, 47.4006)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(74.7224, 48.0247)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<rect transform="translate(75.3369, 49.6506)" x="-0.0650" y="-1.3741" width="0.1300" height="4.3741" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(110.4075, 47.4006)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(110.5304, 48.0362)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(111.1450, 49.6506)" x="-0.0650" y="-1.3586" width="0.1300" height="4.1686" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(107.7597, 49.6506)" x="-0.0650" y="-1.3752" width="0.1300" height="4.1852" ry="0.0400" fill="currentColor"/>
+<polygon transform="translate(107.6947, 51.7396)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.4753 -0.2000 3.4753 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(107.6947, 52.4606)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.4753 -0.2000 3.4753 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(87.0163, 44.4006)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.6439 0.7400 8.6439 1.1400 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(92.1849, 45.6811)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.4753 0.1805 3.4753 0.5805 0.0400 0.2000 0.0400 -0.2000"/>
+<line transform="translate(5.6906, 42.1406)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="83.6232" y1="-0.0000" x2="94.5607" y2="-0.0000"/>
+<line transform="translate(100.3013, 42.1406)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0" y1="0" x2="0" y2="0.5000"/>
+<text transform="translate(86.0505, 42.1406)" font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>B</tspan>
+</text>
+<text transform="translate(87.9480, 42.1406)" font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>II</tspan>
+</text>
+<polygon transform="translate(53.9098, 45.9006)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.4960 -0.9500 10.4960 -0.5500 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(53.9098, 46.6216)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.4960 -0.9500 10.4960 -0.5500 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(56.8726, 49.6506)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 2.3730C2.3387 3.8180 5.9069 3.8180 7.5082 2.3730L7.5082 2.3730C5.9069 3.6980 2.3387 3.6980 0.7375 2.3730z"/>
+<polygon transform="translate(39.2457, 52.6796)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.9960 0.5500 9.9960 0.9500 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(39.2457, 53.4006)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.9960 0.5500 9.9960 0.9500 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(45.3439, 49.6506)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.9143 -2.4424C2.1443 -2.9446 3.5753 -2.2600 4.0497 -0.9424L4.0497 -0.9424C3.5235 -2.1518 2.0925 -2.8364 0.9143 -2.4424z"/>
+<polygon transform="translate(25.9544, 51.7396)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.9960 0.7400 9.9960 1.1400 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(25.9544, 52.4606)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.9960 0.7400 9.9960 1.1400 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(38.5732, 49.6506)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 -2.3853C1.6614 -3.2420 3.1989 -3.2420 4.1228 -2.3853L4.1228 -2.3853C3.1989 -3.1220 1.6614 -3.1220 0.7375 -2.3853z"/>
+<polygon transform="translate(12.1630, 52.6796)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.4960 -0.9500 10.4960 -0.5500 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(12.1630, 53.4006)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.4960 -0.9500 10.4960 -0.5500 0.0400 0.2000 0.0400 -0.2000"/>
+<rect transform="translate(99.2705, 49.6506)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(94.8977, 50.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(95.0206, 51.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(95.6352, 49.6506)" x="-0.0650" y="-4.3170" width="0.1300" height="4.1923" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(98.5330, 47.4006)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(98.6559, 48.0362)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(98.5330, 51.9006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(98.6559, 52.5486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(98.5330, 50.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(98.6559, 51.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(98.5330, 48.9006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(98.6559, 49.5486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<path transform="translate(100.3351, 46.6506) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<path transform="translate(100.3351, 52.6506) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(99.2705, 49.6506)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<path transform="translate(100.3351, 51.1506) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<path transform="translate(100.3351, 49.6506) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(107.0222, 47.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(107.1451, 48.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(19.2487, 49.6506)" x="-0.0650" y="-1.3741" width="0.1300" height="4.6197" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(21.8966, 47.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(22.0195, 48.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(22.6341, 49.6506)" x="-0.0650" y="-1.3752" width="0.1300" height="4.3799" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(25.2819, 47.4006)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(25.4048, 48.0247)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<rect transform="translate(26.0194, 49.6506)" x="-0.0650" y="-1.3741" width="0.1300" height="4.1902" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(18.5112, 47.4006)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(18.6341, 48.0247)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(28.6672, 47.4006)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(28.7901, 48.0362)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(29.4047, 49.6506)" x="-0.0650" y="-1.3586" width="0.1300" height="4.4917" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(31.8026, 48.9006)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(31.9255, 49.5362)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(32.5401, 49.6506)" x="-0.0650" y="0.1414" width="0.1300" height="3.2854" ry="0.0400" fill="currentColor"/>
+<text transform="translate(4.5638, 46.3506)" font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+<path transform="translate(6.2906, 49.6506) scale(0.0040, -0.0040)" d="M267 -425c0 -24 -23 -27 -43 -27c-45 0 -84 31 -84 75c0 82 118 130 234 130c104 0 215 -22 215 -103c0 -51 -31 -86 -69 -110c58 -11 102 -36 102 -91c0 -90 -94 -158 -179 -158c-41 0 -80 15 -108 52c-2 2 -3 5 -3 8c0 12 16 25 28 25c4 0 8 -1 10 -4
+c11 -15 27 -21 44 -21c43 0 95 40 95 93c0 46 -49 63 -100 63h-1c-6 0 -8 8 -8 16c0 11 5 24 18 24h1c36 0 68 39 68 77c0 45 -36 68 -80 76c-11 -62 -31 -173 -40 -220c-20 -102 -84 -202 -159 -202c-44 0 -68 34 -96 53c-3 2 -4 5 -4 9c0 11 12 26 24 26c3 0 5 0 7 -2
+c20 -13 36 -35 65 -35c65 0 89 99 89 195v8c0 35 9 109 18 163c-39 -13 -70 -40 -70 -70c0 -15 8 -28 19 -34c4 -3 7 -9 7 -16zM301 -83c-43 -41 -114 -105 -173 -105c-33 0 -52 21 -78 32c-3 1 -5 5 -5 9c0 11 11 28 25 28c2 0 5 -1 7 -2c16 -7 30 -18 50 -18
+c34 0 65 27 91 54c100 102 175 219 214 336c9 27 33 37 57 37c29 0 57 -15 57 -31c0 -2 -1 -4 -2 -6c-4 -116 -9 -233 -16 -350v-9c0 -16 3 -30 21 -30c16 0 35 13 53 19l2 1c5 0 9 -8 9 -17c0 -8 -3 -16 -12 -19c-29 -9 -54 -34 -87 -34c-32 0 -45 29 -53 58
+c-16 61 -26 125 -31 191c-27 -35 -56 -68 -87 -101c11 -20 33 -33 64 -33c4 0 8 1 12 1c5 0 8 -7 8 -15c0 -25 -34 -29 -56 -29c-32 0 -56 12 -70 33zM288 540c0 -23 -23 -24 -42 -24c-49 0 -91 36 -91 84c0 95 125 120 232 120c49 0 119 -41 171 -41c38 0 77 15 110 41
+c3 2 6 3 9 3c11 0 23 -11 23 -19c0 -2 -1 -3 -2 -4c-40 -45 -95 -71 -148 -71c-15 0 -31 2 -44 6c-9 -59 -26 -151 -35 -193c-22 -96 -88 -185 -163 -185c-52 0 -81 42 -115 64c-3 2 -4 5 -4 9c0 11 12 26 23 26c2 0 5 -1 7 -2c23 -15 43 -46 75 -46c56 0 82 77 85 150
+c2 45 13 150 22 208c-12 3 -31 5 -32 5c-51 0 -113 -21 -113 -70c0 -18 10 -36 24 -43c5 -3 8 -10 8 -18z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 48.9006)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 49.5362)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(12.2280, 49.6506)" x="-0.0650" y="0.1414" width="0.1300" height="3.6039" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(15.1259, 47.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(15.2488, 48.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(15.8634, 49.6506)" x="-0.0650" y="-1.3752" width="0.1300" height="4.8618" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(42.6961, 49.6506)" x="-0.0650" y="0.1414" width="0.1300" height="3.8664" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(53.9748, 49.6506)" x="-0.0650" y="-3.7546" width="0.1300" height="5.1299" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(45.3439, 48.9006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(45.4668, 49.5486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(46.0814, 49.6506)" x="-0.0650" y="0.1248" width="0.1300" height="4.1361" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(53.2373, 51.9006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(53.3602, 52.5486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(48.4792, 50.4006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(48.6022, 51.0486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(49.2167, 49.6506)" x="-0.0650" y="1.6248" width="0.1300" height="2.8704" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(35.1879, 48.9006)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(35.3108, 49.5486)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(35.9254, 49.6506)" x="-0.0650" y="0.1248" width="0.1300" height="3.6191" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(38.5732, 48.9006)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(38.6961, 49.5362)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(39.3107, 49.6506)" x="-0.0650" y="0.1414" width="0.1300" height="3.6134" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(41.9586, 48.9006)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(42.0815, 49.5362)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<line transform="translate(5.6906, 64.1480)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 62.6480)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 61.1480)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 59.6480)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<rect transform="translate(113.6210, 61.8980)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(89.1113, 61.8980)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(48.3851, 61.8980)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(79.0194, 61.1480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(79.1423, 61.7836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(76.3592, 61.8980)" x="-0.0650" y="0.1248" width="0.1300" height="4.1852" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(75.6217, 61.1480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(75.7446, 61.7960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(72.9615, 61.8980)" x="-0.0650" y="0.1414" width="0.1300" height="3.6030" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(72.2240, 61.1480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(72.3469, 61.7836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(79.7569, 61.8980)" x="-0.0650" y="0.1414" width="0.1300" height="4.1686" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(82.6671, 59.6480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(82.7900, 60.2836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(83.4046, 61.8980)" x="-0.0650" y="-1.3586" width="0.1300" height="5.6686" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(85.8148, 61.1480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(85.9377, 61.7960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(86.5523, 61.8980)" x="-0.0650" y="0.1248" width="0.1300" height="4.1852" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(53.4399, 59.6480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(53.5628, 60.2836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<path transform="translate(14.6383, 61.8980)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7679 -6.7508C2.4800 -8.0784 6.0667 -7.8114 7.5633 -6.2448L7.5633 -6.2448C6.0578 -7.6917 2.4711 -7.9587 0.7679 -6.7508z"/>
+<rect transform="translate(54.1774, 61.8980)" x="-0.0650" y="-1.3586" width="0.1300" height="5.2651" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(56.8376, 59.6480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(56.9605, 60.2960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(57.5751, 61.8980)" x="-0.0650" y="-1.3752" width="0.1300" height="4.7387" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(60.2353, 59.6480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(60.3582, 60.2836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(60.9728, 61.8980)" x="-0.0650" y="-1.3586" width="0.1300" height="4.1789" ry="0.0400" fill="currentColor"/>
+<path transform="translate(64.3705, 58.6561) scale(0.0040, -0.0040)" d="M-297 227c0 -22 17 -30 39 -30c39 0 72 14 103 28l5 24c-23 17 -50 29 -81 29c-32 0 -66 -16 -66 -51zM-26 104c0 -61 -47 -115 -98 -115c-39 0 -56 44 -56 91c0 14 1 28 4 41l15 76c-31 -13 -62 -25 -101 -25c-35 0 -60 18 -60 51c0 51 49 80 96 80c31 0 58 -10 82 -25
+l46 232c6 -3 13 -5 20 -5c22 0 48 16 68 35l-53 -266l64 36c26 14 51 20 74 20c29 0 53 -10 64 -28c18 20 44 30 69 30c36 0 69 -22 69 -69c0 -45 -27 -90 -65 -90c-25 0 -38 22 -38 48c0 41 29 64 60 64h3c-8 14 -23 20 -38 20c-24 0 -50 -16 -55 -43l-54 -270
+c-11 7 -24 11 -38 11s-29 -4 -43 -11l54 270v7c0 16 -12 26 -29 26c-7 0 -16 -3 -24 -7l-79 -44l-7 -31c27 -31 50 -67 50 -109zM-86 39c23 0 35 34 35 61c0 30 -14 55 -32 78l-5 -27c-4 -18 -13 -56 -13 -83c0 -17 4 -29 15 -29z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(63.6330, 59.6480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(63.7559, 60.2960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(64.3705, 61.8980)" x="-0.0650" y="-1.3752" width="0.1300" height="4.3808" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(69.0763, 59.6480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(69.1992, 60.2836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(69.8138, 61.8980)" x="-0.0650" y="-1.3586" width="0.1300" height="4.8323" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(104.1869, 61.1480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(104.3098, 61.7836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(104.6744, 61.8980)" x="-0.0650" y="0.1414" width="0.1300" height="4.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(105.1744, 61.8980)" x="-0.0650" y="0.1414" width="0.1300" height="4.3586" ry="0.0400" fill="currentColor"/>
+<polygon transform="translate(91.2686, 64.9270)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.0331 0.5500 10.0331 0.9500 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(91.2686, 65.6480)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.0331 0.5500 10.0331 0.9500 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(97.3915, 61.8980)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.9126 -2.4400C2.1425 -2.9459 3.5796 -2.2667 4.0603 -0.9524L4.0603 -0.9524C3.5283 -2.1582 2.0912 -2.8374 0.9126 -2.4400z"/>
+<path transform="translate(90.5961, 61.8980)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 -2.3853C1.6642 -3.2446 3.2085 -3.2446 4.1352 -2.3853L4.1352 -2.3853C3.2085 -3.1246 1.6642 -3.1246 0.7375 -2.3853z"/>
+<polygon transform="translate(76.2942, 65.4870)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.2831 -0.2000 10.2831 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(76.2942, 66.2080)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.2831 -0.2000 10.2831 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(82.6671, 61.8980)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8926 -3.6603C2.0765 -4.1051 3.5074 -3.5200 4.0403 -2.3730L4.0403 -2.3730C3.4619 -3.4089 2.0311 -3.9941 0.8926 -3.6603z"/>
+<polygon transform="translate(69.7488, 64.6452)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.2377 0.0819 3.2377 0.4819 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(64.3055, 64.8980)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="8.6810 0.5500 8.6810 0.9500 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(75.6217, 61.8980)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7360 -2.3730C1.6596 -3.2356 3.2038 -3.2412 4.1337 -2.3853L4.1337 -2.3853C3.2043 -3.1212 1.6601 -3.1156 0.7360 -2.3730z"/>
+<path transform="translate(69.0763, 61.8980)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8913 -3.6603C2.0724 -4.1086 3.5029 -3.5292 4.0390 -2.3853L4.0390 -2.3853C3.4578 -3.4180 2.0273 -3.9974 0.8913 -3.6603z"/>
+<polygon transform="translate(50.4647, 65.6770)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.5331 -1.8900 10.5331 -1.4900 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(50.4647, 66.3980)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.5331 -1.8900 10.5331 -1.4900 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(53.4399, 61.8980)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 -3.6603C2.3430 -5.1088 5.9274 -5.1088 7.5329 -3.6603L7.5329 -3.6603C5.9274 -4.9888 2.3430 -4.9888 0.7375 -3.6603z"/>
+<polygon transform="translate(35.3894, 64.9270)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.5331 -1.1400 10.5331 -0.7400 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(35.3894, 65.6480)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.5331 -1.1400 10.5331 -0.7400 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(25.2538, 57.5880)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="6.9799 -1.1400 6.9799 -0.7400 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(31.1088, 57.5250)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.3560 1.1250 0.0440 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(12.1630, 55.8980)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.0331 0.5500 10.0331 0.9500 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(12.1630, 56.6190)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="10.0331 0.5500 10.0331 0.9500 0.0400 0.2000 0.0400 -0.2000"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(90.5961, 61.1480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(90.7190, 61.7836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(91.3336, 61.8980)" x="-0.0650" y="0.1414" width="0.1300" height="3.6134" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(93.9938, 61.1480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(94.1167, 61.7836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(94.7313, 61.8980)" x="-0.0650" y="0.1414" width="0.1300" height="3.8664" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(97.3915, 61.1480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(97.5144, 61.7960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(98.1290, 61.8980)" x="-0.0650" y="0.1248" width="0.1300" height="4.1360" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(100.5392, 62.6480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(100.6621, 63.2836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(101.2767, 61.8980)" x="-0.0650" y="1.6414" width="0.1300" height="2.8537" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(18.0360, 61.1480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(18.1589, 61.7836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(18.7734, 61.8980)" x="-0.0650" y="-5.5078" width="0.1300" height="3.8664" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(21.4337, 61.1480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(21.5566, 61.7836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(22.1711, 61.8980)" x="-0.0650" y="-5.2548" width="0.1300" height="3.6134" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(15.3757, 61.8980)" x="-0.0650" y="-5.7608" width="0.1300" height="4.1360" ry="0.0400" fill="currentColor"/>
+<path transform="translate(25.3188, 56.9953) scale(0.0040, -0.0040)" d="M-297 227c0 -22 17 -30 39 -30c39 0 72 14 103 28l5 24c-23 17 -50 29 -81 29c-32 0 -66 -16 -66 -51zM-26 104c0 -61 -47 -115 -98 -115c-39 0 -56 44 -56 91c0 14 1 28 4 41l15 76c-31 -13 -62 -25 -101 -25c-35 0 -60 18 -60 51c0 51 49 80 96 80c31 0 58 -10 82 -25
+l46 232c6 -3 13 -5 20 -5c22 0 48 16 68 35l-53 -266l64 36c26 14 51 20 74 20c29 0 53 -10 64 -28c18 20 44 30 69 30c36 0 69 -22 69 -69c0 -45 -27 -90 -65 -90c-25 0 -38 22 -38 48c0 41 29 64 60 64h3c-8 14 -23 20 -38 20c-24 0 -50 -16 -55 -43l-54 -270
+c-11 7 -24 11 -38 11s-29 -4 -43 -11l54 270v7c0 16 -12 26 -29 26c-7 0 -16 -3 -24 -7l-79 -44l-7 -31c27 -31 50 -67 50 -109zM-86 39c23 0 35 34 35 61c0 30 -14 55 -32 78l-5 -27c-4 -18 -13 -56 -13 -83c0 -17 4 -29 15 -29z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(24.5814, 62.6480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(24.7043, 63.2836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(24.5814, 64.1480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(24.7043, 64.7960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<path transform="translate(26.3834, 61.8980) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(25.3188, 61.8980)" x="-0.0650" y="-4.3187" width="0.1300" height="4.1773" ry="0.0400" fill="currentColor"/>
+<path transform="translate(26.3834, 64.8980) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(25.3188, 61.8980)" x="-0.0650" y="3.1248" width="0.1300" height="3.6252" ry="0.0400" fill="currentColor"/>
+<path transform="translate(25.3838, 68.6080) scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 59.6480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 60.2960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<text transform="translate(3.4371, 58.5733)" font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>10</tspan>
+</text>
+<path transform="translate(6.2906, 61.8980) scale(0.0040, -0.0040)" d="M267 -425c0 -24 -23 -27 -43 -27c-45 0 -84 31 -84 75c0 82 118 130 234 130c104 0 215 -22 215 -103c0 -51 -31 -86 -69 -110c58 -11 102 -36 102 -91c0 -90 -94 -158 -179 -158c-41 0 -80 15 -108 52c-2 2 -3 5 -3 8c0 12 16 25 28 25c4 0 8 -1 10 -4
+c11 -15 27 -21 44 -21c43 0 95 40 95 93c0 46 -49 63 -100 63h-1c-6 0 -8 8 -8 16c0 11 5 24 18 24h1c36 0 68 39 68 77c0 45 -36 68 -80 76c-11 -62 -31 -173 -40 -220c-20 -102 -84 -202 -159 -202c-44 0 -68 34 -96 53c-3 2 -4 5 -4 9c0 11 12 26 24 26c3 0 5 0 7 -2
+c20 -13 36 -35 65 -35c65 0 89 99 89 195v8c0 35 9 109 18 163c-39 -13 -70 -40 -70 -70c0 -15 8 -28 19 -34c4 -3 7 -9 7 -16zM301 -83c-43 -41 -114 -105 -173 -105c-33 0 -52 21 -78 32c-3 1 -5 5 -5 9c0 11 11 28 25 28c2 0 5 -1 7 -2c16 -7 30 -18 50 -18
+c34 0 65 27 91 54c100 102 175 219 214 336c9 27 33 37 57 37c29 0 57 -15 57 -31c0 -2 -1 -4 -2 -6c-4 -116 -9 -233 -16 -350v-9c0 -16 3 -30 21 -30c16 0 35 13 53 19l2 1c5 0 9 -8 9 -17c0 -8 -3 -16 -12 -19c-29 -9 -54 -34 -87 -34c-32 0 -45 29 -53 58
+c-16 61 -26 125 -31 191c-27 -35 -56 -68 -87 -101c11 -20 33 -33 64 -33c4 0 8 1 12 1c5 0 8 -7 8 -15c0 -25 -34 -29 -56 -29c-32 0 -56 12 -70 33zM288 540c0 -23 -23 -24 -42 -24c-49 0 -91 36 -91 84c0 95 125 120 232 120c49 0 119 -41 171 -41c38 0 77 15 110 41
+c3 2 6 3 9 3c11 0 23 -11 23 -19c0 -2 -1 -3 -2 -4c-40 -45 -95 -71 -148 -71c-15 0 -31 2 -44 6c-9 -59 -26 -151 -35 -193c-22 -96 -88 -185 -163 -185c-52 0 -81 42 -115 64c-3 2 -4 5 -4 9c0 11 12 26 23 26c2 0 5 -1 7 -2c23 -15 43 -46 75 -46c56 0 82 77 85 150
+c2 45 13 150 22 208c-12 3 -31 5 -32 5c-51 0 -113 -21 -113 -70c0 -18 10 -36 24 -43c5 -3 8 -10 8 -18z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 64.1480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 64.7836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 62.6480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 63.2960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(12.2280, 61.8980)" x="-0.0650" y="-5.9952" width="0.1300" height="2.8704" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(12.2280, 61.8980)" x="-0.0650" y="3.1248" width="0.1300" height="4.0002" ry="0.0400" fill="currentColor"/>
+<path transform="translate(12.2930, 68.9830) scale(0.0040, -0.0040)" d="M0 205c91 51 211 131 211 233c0 24 -5 48 -14 70c-79 -89 -197 -160 -197 -282v-21zM267 663c0 -44 -16 -82 -39 -116c16 -35 25 -71 25 -109c0 -181 -253 -257 -253 -438h-16v500h16v-70c97 49 224 128 224 233c0 21 -5 42 -13 62c-3 16 10 27 23 27c30 0 33 -63 33 -89
+z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(14.6383, 61.1480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(14.7612, 61.7960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(41.7623, 59.6480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(41.8852, 60.2836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(45.1600, 59.6480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(45.2829, 60.2960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(45.8975, 61.8980)" x="-0.0650" y="-1.3752" width="0.1300" height="4.1910" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(42.4998, 61.8980)" x="-0.0650" y="-1.3586" width="0.1300" height="4.4764" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(49.7922, 62.6480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(49.9151, 63.2836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(50.5297, 61.8980)" x="-0.0650" y="1.6414" width="0.1300" height="2.8482" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(38.8521, 61.8980)" x="-0.0650" y="0.1414" width="0.1300" height="3.3007" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(34.7169, 61.1480)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(34.8398, 61.7960)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(35.4544, 61.8980)" x="-0.0650" y="0.1248" width="0.1300" height="3.6195" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(32.2088, 61.8980)" x="-0.0650" y="-5.2413" width="0.1300" height="3.5999" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(31.4713, 61.1480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(31.5942, 61.7836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(38.1146, 61.1480)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(38.2375, 61.7836)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<line transform="translate(5.6906, 79.2793)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 77.7793)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 76.2793)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 74.7793)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<rect transform="translate(61.5494, 77.0293)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(113.6210, 77.0293)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(77.3079, 74.7793)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(77.4308, 75.4272)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(78.0454, 77.0293)" x="-0.0650" y="-1.3752" width="0.1300" height="5.1365" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(81.7115, 74.7793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(81.8345, 75.4149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(81.7115, 79.2793)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(81.8345, 79.9272)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(81.7115, 76.2793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(81.8345, 76.9149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<path transform="translate(83.5136, 74.0293) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(82.4490, 77.0293)" x="-0.0650" y="-6.7500" width="0.1300" height="3.6086" ry="0.0400" fill="currentColor"/>
+<path transform="translate(83.5136, 80.0293) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(82.4490, 77.0293)" x="-0.0650" y="3.1414" width="0.1300" height="3.6086" ry="0.0400" fill="currentColor"/>
+<path transform="translate(82.5140, 83.7393) scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+<path transform="translate(83.5136, 77.0293) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(63.3908, 79.2793)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(63.5137, 79.9272)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<path transform="translate(21.3739, 77.0293)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7138 -6.8154C1.4917 -7.6274 2.8014 -7.7031 3.6677 -6.9862L3.6677 -6.9862C2.8084 -7.5833 1.4986 -7.5076 0.7138 -6.8154z"/>
+<rect transform="translate(64.1283, 77.0293)" x="-0.0650" y="3.1248" width="0.1300" height="3.0539" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(68.1965, 74.7793)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(68.3194, 75.4033)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<rect transform="translate(68.9340, 77.0293)" x="-0.0650" y="-1.3741" width="0.1300" height="6.7180" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(72.7522, 74.7793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(72.8751, 75.4149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(73.4897, 77.0293)" x="-0.0650" y="-1.3586" width="0.1300" height="5.9112" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(109.1657, 76.2793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(109.2886, 76.9149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(109.9032, 77.0293)" x="-0.0650" y="0.1414" width="0.1300" height="4.1686" ry="0.0400" fill="currentColor"/>
+<polygon transform="translate(96.4211, 80.6183)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="13.5072 -0.2000 13.5072 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(96.4211, 81.3393)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="13.5072 -0.2000 13.5072 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(82.3840, 70.2793)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.7234 -0.2000 9.7234 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(90.9824, 71.0003)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.2000 1.1250 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(95.7486, 77.0293)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7763 -3.6603C3.4822 -5.4877 11.8801 -4.6896 14.1934 -2.3853L14.1934 -2.3853C11.8687 -4.5702 3.4708 -5.3682 0.7763 -3.6603z"/>
+<polygon transform="translate(64.0633, 82.4983)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="14.0072 -2.6400 14.0072 -2.2400 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(64.0633, 83.2193)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="14.0072 -2.6400 14.0072 -2.2400 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(68.1965, 77.0293)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 -3.6488C2.7105 -5.3760 7.8763 -5.3756 9.8490 -3.6480L9.8490 -3.6480C7.8763 -5.2556 2.7105 -5.2560 0.7375 -3.6488z"/>
+<polygon transform="translate(43.9209, 80.0583)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="14.0072 -0.9500 14.0072 -0.5500 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(43.9209, 80.7793)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="14.0072 -0.9500 14.0072 -0.5500 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(27.9542, 71.7793)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="11.6530 -0.2000 11.6530 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(38.4822, 72.5003)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="1.1250 -0.2000 1.1250 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(43.2484, 77.0293)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7001 -2.3853C3.0715 -4.7160 11.8619 -5.5213 14.6173 -3.6603L14.6173 -3.6603C11.8728 -5.4018 3.0824 -4.5965 0.7001 -2.3853z"/>
+<polygon transform="translate(12.1630, 71.7793)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="12.9273 -0.9500 12.9273 -0.5500 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(22.0464, 71.9286)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0439 -0.3784 3.0439 0.0216 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(22.0464, 72.6496)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.0439 -0.3784 3.0439 0.0216 0.0400 0.2000 0.0400 -0.2000"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(91.3449, 74.7793)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(91.4678, 75.4272)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(92.0824, 77.0293)" x="-0.0650" y="-6.7500" width="0.1300" height="3.6252" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(95.7486, 74.7793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(95.8715, 75.4149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(96.4861, 77.0293)" x="-0.0650" y="-1.3586" width="0.1300" height="5.6686" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(100.0543, 76.2793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(100.1772, 76.9149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(100.7918, 77.0293)" x="-0.0650" y="0.1414" width="0.1300" height="4.1686" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(104.6100, 76.2793)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(104.7329, 76.9272)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(105.3475, 77.0293)" x="-0.0650" y="0.1248" width="0.1300" height="4.1852" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(24.3278, 76.2793)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(24.4507, 76.9272)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<path transform="translate(12.2930, 83.7393) scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(21.3739, 76.2793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(21.4968, 76.9149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(22.1114, 77.0293)" x="-0.0650" y="-5.8254" width="0.1300" height="4.1840" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(12.2280, 77.0293)" x="-0.0650" y="3.1248" width="0.1300" height="3.6252" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(25.0653, 77.0293)" x="-0.0650" y="-5.9962" width="0.1300" height="4.3715" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(27.2817, 76.2793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(27.4046, 76.9149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(27.2817, 79.2793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(27.4046, 79.9149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<path transform="translate(29.0838, 75.5293) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(28.0192, 77.0293)" x="-0.0650" y="-5.2500" width="0.1300" height="3.6086" ry="0.0400" fill="currentColor"/>
+<text transform="translate(3.4371, 73.7045)" font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>13</tspan>
+</text>
+<path transform="translate(6.2906, 77.0293) scale(0.0040, -0.0040)" d="M267 -425c0 -24 -23 -27 -43 -27c-45 0 -84 31 -84 75c0 82 118 130 234 130c104 0 215 -22 215 -103c0 -51 -31 -86 -69 -110c58 -11 102 -36 102 -91c0 -90 -94 -158 -179 -158c-41 0 -80 15 -108 52c-2 2 -3 5 -3 8c0 12 16 25 28 25c4 0 8 -1 10 -4
+c11 -15 27 -21 44 -21c43 0 95 40 95 93c0 46 -49 63 -100 63h-1c-6 0 -8 8 -8 16c0 11 5 24 18 24h1c36 0 68 39 68 77c0 45 -36 68 -80 76c-11 -62 -31 -173 -40 -220c-20 -102 -84 -202 -159 -202c-44 0 -68 34 -96 53c-3 2 -4 5 -4 9c0 11 12 26 24 26c3 0 5 0 7 -2
+c20 -13 36 -35 65 -35c65 0 89 99 89 195v8c0 35 9 109 18 163c-39 -13 -70 -40 -70 -70c0 -15 8 -28 19 -34c4 -3 7 -9 7 -16zM301 -83c-43 -41 -114 -105 -173 -105c-33 0 -52 21 -78 32c-3 1 -5 5 -5 9c0 11 11 28 25 28c2 0 5 -1 7 -2c16 -7 30 -18 50 -18
+c34 0 65 27 91 54c100 102 175 219 214 336c9 27 33 37 57 37c29 0 57 -15 57 -31c0 -2 -1 -4 -2 -6c-4 -116 -9 -233 -16 -350v-9c0 -16 3 -30 21 -30c16 0 35 13 53 19l2 1c5 0 9 -8 9 -17c0 -8 -3 -16 -12 -19c-29 -9 -54 -34 -87 -34c-32 0 -45 29 -53 58
+c-16 61 -26 125 -31 191c-27 -35 -56 -68 -87 -101c11 -20 33 -33 64 -33c4 0 8 1 12 1c5 0 8 -7 8 -15c0 -25 -34 -29 -56 -29c-32 0 -56 12 -70 33zM288 540c0 -23 -23 -24 -42 -24c-49 0 -91 36 -91 84c0 95 125 120 232 120c49 0 119 -41 171 -41c38 0 77 15 110 41
+c3 2 6 3 9 3c11 0 23 -11 23 -19c0 -2 -1 -3 -2 -4c-40 -45 -95 -71 -148 -71c-15 0 -31 2 -44 6c-9 -59 -26 -151 -35 -193c-22 -96 -88 -185 -163 -185c-52 0 -81 42 -115 64c-3 2 -4 5 -4 9c0 11 12 26 23 26c2 0 5 -1 7 -2c23 -15 43 -46 75 -46c56 0 82 77 85 150
+c2 45 13 150 22 208c-12 3 -31 5 -32 5c-51 0 -113 -21 -113 -70c0 -18 10 -36 24 -43c5 -3 8 -10 8 -18z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(27.2817, 77.7793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(27.4046, 78.4149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 77.7793)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 78.4272)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 79.2793)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 79.9272)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<path transform="translate(13.2926, 77.0293) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(12.2280, 77.0293)" x="-0.0650" y="-5.2538" width="0.1300" height="5.1290" ry="0.0400" fill="currentColor"/>
+<path transform="translate(13.2926, 80.0293) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(52.6098, 74.7793)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(52.7327, 75.4272)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(43.2484, 76.2793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(43.3713, 76.9149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(43.9859, 77.0293)" x="-0.0650" y="0.1414" width="0.1300" height="3.6051" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(48.0541, 74.7793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(48.1770, 75.4149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(48.7916, 77.0293)" x="-0.0650" y="-1.3586" width="0.1300" height="4.8485" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(53.3473, 77.0293)" x="-0.0650" y="-1.3752" width="0.1300" height="4.6219" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(57.1655, 74.7793)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(57.2884, 75.4149)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(57.9030, 77.0293)" x="-0.0650" y="-1.3586" width="0.1300" height="4.3620" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(28.0192, 77.0293)" x="-0.0650" y="3.1414" width="0.1300" height="3.6086" ry="0.0400" fill="currentColor"/>
+<path transform="translate(28.0842, 83.7393) scale(0.0040, -0.0040)" d="M0 0h-16v250h16v-250zM0 0v250c97 59 224 148 224 259c0 57 -15 112 -40 163c-3 16 10 27 23 27c7 0 15 -3 20 -11c25 -56 40 -117 40 -179c0 -203 -267 -306 -267 -509z" fill="currentColor"/>
+<rect transform="translate(39.5822, 77.0293)" x="-0.0650" y="-5.2500" width="0.1300" height="3.6252" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(38.8447, 76.2793)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(38.9676, 76.9272)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<line transform="translate(5.6906, 91.5293)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 90.0293)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 88.5293)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 87.0293)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<path transform="translate(111.9710, 87.7793) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<path transform="translate(111.9710, 90.7793) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(113.2110, 89.2793)" x="0.0000" y="-2.2500" width="0.6000" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(112.7210, 89.2793)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(67.9492, 89.2793)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(69.8592, 90.0293)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(69.9821, 90.6772)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(75.5853, 89.2793)" x="-0.0650" y="0.1414" width="0.1300" height="5.2808" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(70.5967, 89.2793)" x="-0.0650" y="1.6248" width="0.1300" height="4.1802" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(49.3452, 87.0293)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(49.4682, 87.6649)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(74.8478, 88.5293)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(74.9707, 89.1649)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<path transform="translate(11.4906, 89.2793)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 0.3506C3.0216 -0.6388 17.2558 -0.6388 18.7253 0.3506L18.7253 0.3506C17.2558 -0.5188 3.0216 -0.5188 1.5521 0.3506z"/>
+<rect transform="translate(50.0827, 89.2793)" x="-0.0650" y="-1.3586" width="0.1300" height="4.3620" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(54.0838, 87.0293)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(54.2068, 87.6649)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(54.8213, 89.2793)" x="-0.0650" y="-1.3586" width="0.1300" height="4.6141" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(58.8224, 87.0293)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(58.9454, 87.6772)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(59.5599, 89.2793)" x="-0.0650" y="-1.3752" width="0.1300" height="4.8830" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(63.3110, 88.5293)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(63.4340, 89.1649)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(64.0485, 89.2793)" x="-0.0650" y="0.1414" width="0.1300" height="3.6051" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(101.1969, 89.2793)" x="-0.0650" y="-3.0000" width="0.1300" height="4.3586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(100.4594, 91.5293)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(100.5823, 92.1649)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<polygon transform="translate(70.5317, 94.3683)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="14.5558 -1.3200 14.5558 -0.9200 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(70.5317, 95.0893)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="14.5558 -1.3200 14.5558 -0.9200 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(74.8478, 89.2793)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7380 -2.3853C2.7656 -4.1470 8.1923 -4.1399 10.2152 -2.3730L10.2152 -2.3730C8.1921 -4.0199 2.7654 -4.0270 0.7380 -2.3853z"/>
+<polygon transform="translate(50.0177, 91.5583)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="14.0558 0.5500 14.0558 0.9500 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(50.0177, 92.2793)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="14.0558 0.5500 14.0558 0.9500 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(58.8224, 89.2793)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8484 -3.6480C2.3058 -4.3876 4.4790 -3.7763 5.3370 -2.3853L5.3370 -2.3853C4.4465 -3.6607 2.2733 -4.2721 0.8484 -3.6480z"/>
+<polygon transform="translate(30.9654, 84.0293)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="14.5558 -0.2000 14.5558 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(30.9654, 84.7503)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="14.5558 -0.2000 14.5558 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(49.3452, 89.2793)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 -3.6603C1.9557 -4.7807 4.2579 -4.7807 5.4761 -3.6603L5.4761 -3.6603C4.2579 -4.6607 1.9557 -4.6607 0.7375 -3.6603z"/>
+<polygon transform="translate(16.7496, 95.3083)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.5672 -0.2000 9.5672 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<polygon transform="translate(16.7496, 96.0293)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="9.5672 -0.2000 9.5672 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<rect transform="translate(85.0625, 89.2793)" x="-0.0650" y="0.1248" width="0.1300" height="4.5702" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(79.8364, 87.0293)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(79.9593, 87.6649)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(80.5739, 89.2793)" x="-0.0650" y="-1.3586" width="0.1300" height="6.3980" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(84.3250, 88.5293)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(84.4479, 89.1772)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(89.0636, 88.5293)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(89.1865, 89.1649)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(89.8011, 89.2793)" x="-0.0650" y="0.1414" width="0.1300" height="4.3586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(16.0771, 91.5293)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(16.2000, 92.1772)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(16.8146, 89.2793)" x="-0.0650" y="3.1248" width="0.1300" height="3.6252" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(20.8157, 91.5293)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(20.9386, 92.1533)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<rect transform="translate(21.5532, 89.2793)" x="-0.0650" y="3.1259" width="0.1300" height="3.6241" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(25.5543, 91.5293)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(25.6772, 92.1772)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(26.2918, 89.2793)" x="-0.0650" y="3.1248" width="0.1300" height="3.6252" ry="0.0400" fill="currentColor"/>
+<text transform="translate(3.4371, 85.9545)" font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>15</tspan>
+</text>
+<path transform="translate(6.2906, 89.2793) scale(0.0040, -0.0040)" d="M267 -425c0 -24 -23 -27 -43 -27c-45 0 -84 31 -84 75c0 82 118 130 234 130c104 0 215 -22 215 -103c0 -51 -31 -86 -69 -110c58 -11 102 -36 102 -91c0 -90 -94 -158 -179 -158c-41 0 -80 15 -108 52c-2 2 -3 5 -3 8c0 12 16 25 28 25c4 0 8 -1 10 -4
+c11 -15 27 -21 44 -21c43 0 95 40 95 93c0 46 -49 63 -100 63h-1c-6 0 -8 8 -8 16c0 11 5 24 18 24h1c36 0 68 39 68 77c0 45 -36 68 -80 76c-11 -62 -31 -173 -40 -220c-20 -102 -84 -202 -159 -202c-44 0 -68 34 -96 53c-3 2 -4 5 -4 9c0 11 12 26 24 26c3 0 5 0 7 -2
+c20 -13 36 -35 65 -35c65 0 89 99 89 195v8c0 35 9 109 18 163c-39 -13 -70 -40 -70 -70c0 -15 8 -28 19 -34c4 -3 7 -9 7 -16zM301 -83c-43 -41 -114 -105 -173 -105c-33 0 -52 21 -78 32c-3 1 -5 5 -5 9c0 11 11 28 25 28c2 0 5 -1 7 -2c16 -7 30 -18 50 -18
+c34 0 65 27 91 54c100 102 175 219 214 336c9 27 33 37 57 37c29 0 57 -15 57 -31c0 -2 -1 -4 -2 -6c-4 -116 -9 -233 -16 -350v-9c0 -16 3 -30 21 -30c16 0 35 13 53 19l2 1c5 0 9 -8 9 -17c0 -8 -3 -16 -12 -19c-29 -9 -54 -34 -87 -34c-32 0 -45 29 -53 58
+c-16 61 -26 125 -31 191c-27 -35 -56 -68 -87 -101c11 -20 33 -33 64 -33c4 0 8 1 12 1c5 0 8 -7 8 -15c0 -25 -34 -29 -56 -29c-32 0 -56 12 -70 33zM288 540c0 -23 -23 -24 -42 -24c-49 0 -91 36 -91 84c0 95 125 120 232 120c49 0 119 -41 171 -41c38 0 77 15 110 41
+c3 2 6 3 9 3c11 0 23 -11 23 -19c0 -2 -1 -3 -2 -4c-40 -45 -95 -71 -148 -71c-15 0 -31 2 -44 6c-9 -59 -26 -151 -35 -193c-22 -96 -88 -185 -163 -185c-52 0 -81 42 -115 64c-3 2 -4 5 -4 9c0 11 12 26 23 26c2 0 5 -1 7 -2c23 -15 43 -46 75 -46c56 0 82 77 85 150
+c2 45 13 150 22 208c-12 3 -31 5 -32 5c-51 0 -113 -21 -113 -70c0 -18 10 -36 24 -43c5 -3 8 -10 8 -18z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 90.0293)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 90.6772)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<path transform="translate(11.4906, 93.0293) scale(0.0040, -0.0040)" d="M66 -500l101 327c-34 -12 -70 -23 -106 -23c-46 0 -87 33 -87 79c0 40 32 72 72 72c25 0 49 -15 57 -39c10 -28 5 -59 34 -59c16 0 55 51 60 68l46 151c-34 -12 -68 -22 -104 -22c-46 0 -87 33 -87 79c0 40 33 72 73 72c25 0 48 -15 56 -39c10 -28 5 -59 34 -59
+c15 0 50 49 57 63c6 12 23 12 28 0l-179 -670c-8 -7 -17 -10 -27 -10s-20 3 -28 10z" fill="currentColor"/>
+<rect transform="translate(12.2280, 89.2793)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<path transform="translate(31.0954, 96.3643) scale(0.0040, -0.0040)" d="M0 205c91 51 211 131 211 233c0 24 -5 48 -14 70c-79 -89 -197 -160 -197 -282v-21zM267 663c0 -44 -16 -82 -39 -116c16 -35 25 -71 25 -109c0 -181 -253 -257 -253 -438h-16v500h16v-70c97 49 224 128 224 233c0 21 -5 42 -13 62c-3 16 10 27 23 27c30 0 33 -63 33 -89
+z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(44.7587, 88.5293)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(44.8816, 89.1649)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(35.2815, 88.5293)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(35.4044, 89.1649)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(36.0190, 89.2793)" x="-0.0650" y="-5.2500" width="0.1300" height="3.6086" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(40.7576, 89.2793)" x="-0.0650" y="-5.2500" width="0.1300" height="3.6252" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(40.0201, 88.5293)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(40.1430, 89.1772)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(30.2929, 90.0293)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(30.4158, 90.6772)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(30.2929, 91.5293)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(30.4158, 92.1772)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(31.0304, 89.2793)" x="-0.0650" y="-5.2500" width="0.1300" height="5.1252" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(45.4962, 89.2793)" x="-0.0650" y="-5.2500" width="0.1300" height="3.6086" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(31.0304, 89.2793)" x="-0.0650" y="3.1248" width="0.1300" height="4.0002" ry="0.0400" fill="currentColor"/>
+<a transform="translate(14.2011, 162.8258)" xlink:href="http://www.MutopiaProject.org">
+<rect x="0.0000" y="-0.3744" width="8.9114" height="1.7420" fill="none" stroke="none" stroke-width="0.0"/>
+</a>
+<text transform="translate(14.2011, 162.8258)" font-family="DejaVu Sans" font-weight="bold" font-size="1.8000" text-anchor="start" fill="currentColor">
+<tspan>Mutopia </tspan>
+</text>
+<a transform="translate(14.4060, 164.9499)" xlink:href="http://www.MutopiaProject.org">
+<rect x="0.0000" y="-0.4993" width="8.7065" height="2.2490" fill="none" stroke="none" stroke-width="0.0"/>
+</a>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(14.4060, 164.9499)" font-family="DejaVu Sans" font-weight="bold" font-size="2.4001" text-anchor="start" fill="currentColor">
+<tspan>ǀ</tspan>
+</text>
+</g>
+<text transform="translate(15.2937, 164.9499)" font-family="DejaVu Sans" font-weight="bold" font-size="1.8000" text-anchor="start" fill="currentColor">
+<tspan>Project </tspan>
+</text>
+<g color="rgb(50.0000%, 50.0000%, 50.0000%)">
+<text transform="translate(23.7125, 162.8258)" font-family="DejaVu Sans" font-weight="bold" font-size="2.3801" text-anchor="start" fill="currentColor">
+<tspan>ǀ</tspan>
+</text>
+</g>
+<g color="rgb(50.0000%, 50.0000%, 50.0000%)">
+<text transform="translate(23.7125, 165.0560)" font-family="DejaVu Sans" font-weight="bold" font-size="2.3801" text-anchor="start" fill="currentColor">
+<tspan>ǀ</tspan>
+</text>
+</g>
+<text transform="translate(25.2003, 162.8258)" font-family="DejaVu Sans,sans-serif" font-size="1.5999" text-anchor="start" fill="currentColor">
+<tspan>Typeset using </tspan>
+</text>
+<a transform="translate(36.6724, 162.8258)" xlink:href="http://www.lilypond.org">
+<rect x="0.0000" y="-0.3328" width="7.2042" height="1.5484" fill="none" stroke="none" stroke-width="0.0"/>
+</a>
+<text transform="translate(36.6724, 162.8258)" font-family="DejaVu Sans,sans-serif" font-size="1.5999" text-anchor="start" fill="currentColor">
+<tspan>LilyPond </tspan>
+</text>
+<text transform="translate(43.8766, 162.8258)" font-family="DejaVu Sans,sans-serif" font-size="1.5999" text-anchor="start" fill="currentColor">
+<tspan>by Andreas Scherer, ukulele by Jordan Anderson — Mutopia-2018/01/19-517</tspan>
+</text>
+<text transform="translate(25.2003, 165.0541)" font-family="DejaVu Sans,sans-serif" font-size="1.5999" text-anchor="start" fill="currentColor">
+<tspan>Placed in the </tspan>
+</text>
+<a transform="translate(36.1261, 165.0541)" xlink:href="http://creativecommons.org/licenses/publicdomain">
+<rect x="0.0000" y="-0.0227" width="11.5063" height="1.2382" fill="none" stroke="none" stroke-width="0.0"/>
+</a>
+<text transform="translate(36.1261, 165.0541)" font-family="DejaVu Sans,sans-serif" font-size="1.5999" text-anchor="start" fill="currentColor">
+<tspan>Public Domain</tspan>
+</text>
+<text transform="translate(47.6324, 165.0541)" font-family="DejaVu Sans,sans-serif" font-size="1.5999" text-anchor="start" fill="currentColor">
+<tspan> by the typesetter </tspan>
+</text>
+<text transform="translate(62.5530, 165.0541)" font-family="DejaVu Sans,sans-serif" font-size="1.5999" text-anchor="start" fill="currentColor">
+<tspan> — free to distribute, modify, and perform</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<text transform="translate(96.1159, 165.0541)" font-family="DejaVu Sans,sans-serif" font-size="2.6002" text-anchor="start" fill="currentColor">
+<tspan>ǀ</tspan>
+</text>
+</g>
+</svg>

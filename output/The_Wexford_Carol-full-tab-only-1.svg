@@ -1,0 +1,2619 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.2" width="210.00mm" height="297.00mm" viewBox="0 0 119.5016 169.0094">
+<style text="style/css">
+<![CDATA[
+tspan { white-space: pre; }
+]]>
+</style>
+<!-- Page: 1/2 -->
+<text transform="translate(5.6906, 2.8453)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(36.1578, 6.4989)" font-family="serif" font-weight="bold" font-size="3.4927" text-anchor="start" fill="currentColor">
+<tspan>The Wexford Carol Tune</tspan>
+</text>
+<text transform="translate(49.6785, 9.9989)" font-family="serif" font-weight="bold" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Low-G Ukulele</tspan>
+</text>
+<text transform="translate(84.6868, 9.9989)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>16th Centry English Carol</tspan>
+</text>
+<text transform="translate(90.5936, 13.4989)" font-family="serif" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>arr. Jordan Anderson</tspan>
+</text>
+<rect transform="translate(19.5214, 18.2974)" x="2.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(19.5214, 18.2974)" x="1.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(19.5214, 18.2974)" x="0.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(19.5214, 18.2974)" x="-0.0250" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<line transform="translate(19.5214, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="0" x2="3.0000" y2="0"/>
+<line transform="translate(19.5214, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="1.0000" x2="3.0000" y2="1.0000"/>
+<line transform="translate(19.5214, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="2.0000" x2="3.0000" y2="2.0000"/>
+<line transform="translate(19.5214, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="3.0000" x2="3.0000" y2="3.0000"/>
+<line transform="translate(19.5214, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="4.0000" x2="3.0000" y2="4.0000"/>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(22.5214, 19.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(22.0946, 24.5595)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(21.5214, 20.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(21.0946, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(20.5214, 21.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(20.0946, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(19.5214, 21.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(19.0946, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(19.5214, 18.2974)" x="-0.0250" y="-0.1250" width="3.0500" height="0.1500" ry="0.0250" fill="currentColor"/>
+<text transform="translate(35.3124, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>B</tspan>
+</text>
+<path transform="translate(37.3438, 16.4695) scale(0.0042, -0.0042)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+<text transform="translate(38.1914, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(38.1914, 15.5803)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<path transform="translate(34.5831, 18.2974)" stroke-width="0.1000" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M2.0000 0.6000C2.2000 0.2000 2.8000 0.2000 3.0000 0.6000C2.8000 0.1000 2.2000 0.1000 2.0000 0.6000z"/>
+<rect transform="translate(34.5831, 18.2974)" x="2.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(34.5831, 18.2974)" x="1.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(34.5831, 18.2974)" x="0.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(34.5831, 18.2974)" x="-0.0250" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<line transform="translate(34.5831, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="0" x2="3.0000" y2="0"/>
+<line transform="translate(34.5831, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="1.0000" x2="3.0000" y2="1.0000"/>
+<line transform="translate(34.5831, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="2.0000" x2="3.0000" y2="2.0000"/>
+<line transform="translate(34.5831, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="3.0000" x2="3.0000" y2="3.0000"/>
+<line transform="translate(34.5831, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="4.0000" x2="3.0000" y2="4.0000"/>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(37.5831, 18.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(37.1563, 24.5595)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(36.5831, 18.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(36.1563, 24.5595)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(35.5831, 19.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(35.1563, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(34.5831, 20.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(34.1563, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(34.5831, 18.2974)" x="-0.0250" y="-0.1250" width="3.0500" height="0.1500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(29.7149, 18.2974)" x="2.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(29.7149, 18.2974)" x="1.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(29.7149, 18.2974)" x="0.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(29.7149, 18.2974)" x="-0.0250" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<line transform="translate(29.7149, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="0" x2="3.0000" y2="0"/>
+<line transform="translate(29.7149, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="1.0000" x2="3.0000" y2="1.0000"/>
+<line transform="translate(29.7149, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="2.0000" x2="3.0000" y2="2.0000"/>
+<line transform="translate(29.7149, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="3.0000" x2="3.0000" y2="3.0000"/>
+<line transform="translate(29.7149, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="4.0000" x2="3.0000" y2="4.0000"/>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(31.7149, 18.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(31.2881, 24.5595)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(29.7149, 19.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(29.2881, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(29.7149, 18.2974)" x="-0.0250" y="-0.1250" width="3.0500" height="0.1500" ry="0.0250" fill="currentColor"/>
+<text transform="translate(30.3734, 17.9599)" font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+<text transform="translate(32.3734, 17.9599)" font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+<text transform="translate(30.4185, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+<text transform="translate(31.9208, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(31.9208, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(31.9208, 15.5803)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(24.8466, 18.2974)" x="2.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(24.8466, 18.2974)" x="1.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(24.8466, 18.2974)" x="0.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(24.8466, 18.2974)" x="-0.0250" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<line transform="translate(24.8466, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="0" x2="3.0000" y2="0"/>
+<line transform="translate(24.8466, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="1.0000" x2="3.0000" y2="1.0000"/>
+<line transform="translate(24.8466, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="2.0000" x2="3.0000" y2="2.0000"/>
+<line transform="translate(24.8466, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="3.0000" x2="3.0000" y2="3.0000"/>
+<line transform="translate(24.8466, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="4.0000" x2="3.0000" y2="4.0000"/>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(26.8466, 19.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(26.4198, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(25.8466, 19.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(25.4198, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(24.8466, 19.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(24.4198, 24.5595)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<rect transform="translate(24.8466, 18.2974)" x="-0.0250" y="-0.1250" width="3.0500" height="0.1500" ry="0.0250" fill="currentColor"/>
+<text transform="translate(27.5052, 17.9599)" font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+<text transform="translate(25.5503, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+<text transform="translate(27.5648, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(27.5648, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(27.5648, 15.5803)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(20.2507, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+<text transform="translate(21.8896, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(21.8896, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>m</tspan>
+</text>
+<text transform="translate(24.4503, 15.5803)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(40.2403, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+<text transform="translate(42.2548, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(42.2548, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>m</tspan>
+</text>
+<text transform="translate(44.8155, 15.5803)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(14.5678, 18.2974)" x="2.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(14.5678, 18.2974)" x="1.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(14.5678, 18.2974)" x="0.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(14.5678, 18.2974)" x="-0.0250" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<line transform="translate(14.5678, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="0" x2="3.0000" y2="0"/>
+<line transform="translate(14.5678, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="1.0000" x2="3.0000" y2="1.0000"/>
+<line transform="translate(14.5678, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="2.0000" x2="3.0000" y2="2.0000"/>
+<line transform="translate(14.5678, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="3.0000" x2="3.0000" y2="3.0000"/>
+<line transform="translate(14.5678, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="4.0000" x2="3.0000" y2="4.0000"/>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(17.5678, 19.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(17.1410, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(16.5678, 20.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(16.1410, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(15.5678, 19.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(15.1410, 24.5595)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<rect transform="translate(14.5678, 18.2974)" x="-0.0250" y="-0.1250" width="3.0500" height="0.1500" ry="0.0250" fill="currentColor"/>
+<text transform="translate(14.2264, 17.9599)" font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+<text transform="translate(15.3568, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+<text transform="translate(17.3713, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(17.3713, 16.7695)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(17.3713, 15.5803)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<path transform="translate(39.5367, 18.2974)" stroke-width="0.1000" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0 1.6000C0.2000 1.2000 0.8000 1.2000 1.0000 1.6000C0.8000 1.1000 0.2000 1.1000 0 1.6000z"/>
+<rect transform="translate(39.5367, 18.2974)" x="2.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(39.5367, 18.2974)" x="1.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(39.5367, 18.2974)" x="0.9750" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<rect transform="translate(39.5367, 18.2974)" x="-0.0250" y="-0.0250" width="0.0500" height="5.0500" ry="0.0250" fill="currentColor"/>
+<line transform="translate(39.5367, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="0" x2="3.0000" y2="0"/>
+<line transform="translate(39.5367, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="1.0000" x2="3.0000" y2="1.0000"/>
+<line transform="translate(39.5367, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="2.0000" x2="3.0000" y2="2.0000"/>
+<line transform="translate(39.5367, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="3.0000" x2="3.0000" y2="3.0000"/>
+<line transform="translate(39.5367, 18.2974)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0500" stroke="currentColor" x1="0.0000" y1="4.0000" x2="3.0000" y2="4.0000"/>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(41.5367, 18.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(41.1099, 24.5595)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(40.5367, 19.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(40.1099, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(0%, 0%, 0%)">
+<circle transform="translate(39.5367, 19.8974)" stroke-linejoin="round" stroke-linecap="round" fill="currentColor" stroke="currentColor" stroke-width="0.0500" r="0.2500"/>
+</g>
+<text transform="translate(39.1099, 24.5769)" font-family="sans-serif" font-size="1.3198" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(39.5367, 18.2974)" x="-0.0250" y="-0.1250" width="3.0500" height="0.1500" ry="0.0250" fill="currentColor"/>
+<text transform="translate(42.1952, 17.9599)" font-family="sans-serif" font-size="0.8803" text-anchor="start" fill="currentColor">
+<tspan>O</tspan>
+</text>
+<rect transform="translate(47.6177, 40.5436)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(28.4875, 40.5436)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(113.6210, 40.5436)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(73.3134, 40.5436)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(89.7863, 40.5436)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<line transform="translate(14.2264, 42.7936)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<line transform="translate(14.2264, 41.2936)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<line transform="translate(14.2264, 39.7936)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<line transform="translate(14.2264, 38.2936)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="99.5346" y2="-0.0000"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(97.9461, 41.2936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(98.0690, 41.9415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(98.6836, 40.5436)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(96.4642, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>self</tspan>
+</text>
+<text transform="translate(95.1327, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>herds</tspan>
+</text>
+<text transform="translate(97.4715, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
+<text transform="translate(96.5837, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>His</tspan>
+</text>
+<text transform="translate(96.7715, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ble</tspan>
+</text>
+<text transform="translate(97.3520, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>er</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(97.9461, 42.7936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(98.0690, 43.4292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(97.9461, 38.2936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(98.0690, 38.9415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<text transform="translate(102.8095, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Heav’n</tspan>
+</text>
+<rect transform="translate(75.2404, 40.5436)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3741" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(75.7404, 40.5436)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3741" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(103.4241, 40.5436)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(103.4241, 40.5436)" x="-0.0650" y="-4.6696" width="0.1300" height="3.0281" ry="0.0400" fill="currentColor"/>
+<text transform="translate(102.8095, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>low</tspan>
+</text>
+<text transform="translate(102.8095, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>went</tspan>
+</text>
+<text transform="translate(102.8095, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>lambs</tspan>
+</text>
+<text transform="translate(102.8095, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Vir</tspan>
+</text>
+<text transform="translate(102.8095, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>well,</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(102.6866, 42.7936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(102.8095, 43.4415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(102.6866, 39.7936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(102.8095, 40.4292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(102.6866, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+<text transform="translate(104.7011, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(104.7011, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(104.7011, 32.3543)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(98.6836, 40.5436)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(80.9936, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Their</tspan>
+</text>
+<text transform="translate(82.4959, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Un</tspan>
+</text>
+<text transform="translate(81.9838, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>The</tspan>
+</text>
+<text transform="translate(81.8472, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Con</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(83.6022, 39.7936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(83.7251, 40.4415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(83.6022, 38.2936)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(83.7251, 38.9176)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<text transform="translate(81.9838, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>The</tspan>
+</text>
+<path transform="translate(76.5550, 42.0436) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(75.2404, 40.5436)" x="-0.0650" y="1.6248" width="0.1300" height="3.8752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(75.7404, 40.5436)" x="-0.0650" y="1.6248" width="0.1300" height="3.8752" ry="0.0400" fill="currentColor"/>
+<path transform="translate(76.5550, 40.5436) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(91.3418, 39.7936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(91.4647, 40.4292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(92.0793, 40.5436)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(89.4331, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Him</tspan>
+</text>
+<text transform="translate(89.1259, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>shep</tspan>
+</text>
+<text transform="translate(88.4259, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>flocks</tspan>
+</text>
+<text transform="translate(90.8330, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>to</tspan>
+</text>
+<text transform="translate(90.5257, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>no</tspan>
+</text>
+<text transform="translate(90.2697, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>sid</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(91.3418, 42.7936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(91.4647, 43.4415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(92.0793, 40.5436)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(91.3418, 38.2936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(91.4647, 38.9292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(91.3418, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+<text transform="translate(92.8441, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(92.8441, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(92.8441, 32.3543)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(84.3397, 40.5436)" x="-0.0650" y="0.1248" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(84.3397, 40.5436)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3741" ry="0.0400" fill="currentColor"/>
+<text transform="translate(79.6962, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Show’d</tspan>
+</text>
+<path transform="translate(40.9809, 40.5436)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 -1.1825C2.5606 -2.0551 6.8500 -2.0551 7.8585 -1.1825L7.8585 -1.1825C6.8500 -1.9351 2.5606 -1.9351 1.5521 -1.1825z"/>
+<path transform="translate(40.9809, 40.5436)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 1.1913C2.5606 2.0639 6.8500 2.0639 7.8585 1.1913L7.8585 1.1913C6.8500 1.9439 2.5606 1.9439 1.5521 1.1913z"/>
+<path transform="translate(40.9809, 40.5436)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.1625 3.2500C2.2292 4.1422 7.1814 4.1422 8.2481 3.2500L8.2481 3.2500C7.1814 4.0222 2.2292 4.0222 1.1625 3.2500z"/>
+<rect transform="translate(47.0907, 63.4199)" x="0.0000" y="-0.0800" width="3.1779" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(65.2070, 49.4199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(64.9680, 52.2199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(65.4374, 55.0199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(64.2979, 57.8199)" x="0.0000" y="-0.5500" width="0.5661" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(64.6351, 60.6199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<polygon transform="translate(35.4358, 36.2336)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.1988 -0.2000 3.1988 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<rect transform="translate(33.5660, 49.4199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(33.8989, 57.8199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(34.2903, 60.6199)" x="0.0000" y="-0.5500" width="0.5259" height="0.1300" ry="0.0400" fill="currentColor"/>
+<path transform="translate(34.7633, 40.5436)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 -5.3000C1.5967 -6.0981 2.9871 -6.0981 3.8463 -5.3000L3.8463 -5.3000C2.9871 -5.9781 1.5967 -5.9781 0.7375 -5.3000z"/>
+<rect transform="translate(39.1844, 52.2199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(38.7918, 57.8199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(45.0079, 49.4199)" x="0.0000" y="-0.0800" width="5.2607" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(46.2712, 52.2199)" x="0.0000" y="-0.0800" width="3.9974" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(48.3881, 55.0199)" x="0.0000" y="-0.0800" width="1.8805" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(46.6126, 57.8199)" x="0.0000" y="-0.0800" width="3.6559" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(47.9101, 60.6199)" x="0.0000" y="-0.0800" width="2.3585" height="0.0800" ry="0.0320" fill="currentColor"/>
+<path transform="translate(102.6866, 40.5436)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8604 -5.6596C1.8869 -6.1481 3.1572 -5.7486 3.7192 -4.7604L3.7192 -4.7604C3.1212 -5.6341 1.8509 -6.0336 0.8604 -5.6596z"/>
+<path transform="translate(105.5454, 40.5436)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 0.2381C1.9374 -0.2413 2.6464 -0.2413 3.0317 0.2381L3.0317 0.2381C2.6464 -0.1213 1.9374 -0.1213 1.5521 0.2381z"/>
+<polygon transform="translate(103.3591, 35.8536)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.9488 0.7400 2.9488 1.1400 0.0400 0.2000 0.0400 -0.2000"/>
+<rect transform="translate(109.3918, 40.5436)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(108.6543, 41.2936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(108.7772, 41.9415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(106.2829, 40.5436)" x="-0.0650" y="-3.7704" width="0.1300" height="3.6457" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(105.5454, 41.2936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(105.6684, 41.9415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(88.2209, 49.4199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(88.1782, 55.0199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(95.2904, 49.4199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(94.8722, 52.2199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(95.2648, 63.4199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<text transform="translate(34.8862, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>le</tspan>
+</text>
+<text transform="translate(34.8862, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>your</tspan>
+</text>
+<text transform="translate(34.8862, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>be</tspan>
+</text>
+<text transform="translate(34.8862, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ple</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(34.7633, 39.7936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(34.8862, 40.4292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(34.8862, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ful</tspan>
+</text>
+<rect transform="translate(30.3852, 40.5436)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(30.8852, 40.5436)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(30.6352, 40.5436)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(28.0233, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>how</tspan>
+</text>
+<text transform="translate(27.0502, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>thank</tspan>
+</text>
+<text transform="translate(27.6989, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Beth</tspan>
+</text>
+<text transform="translate(29.1159, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+<rect transform="translate(41.4684, 40.5436)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(41.9684, 40.5436)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(41.1039, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Lord</tspan>
+</text>
+<path transform="translate(76.5550, 37.5436) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<text transform="translate(41.1039, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>hem</tspan>
+</text>
+<text transform="translate(41.1039, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>songs</tspan>
+</text>
+<text transform="translate(41.1039, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>fore</tspan>
+</text>
+<text transform="translate(41.1039, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>all,</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(40.9809, 42.7936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(41.1039, 43.4415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(40.9809, 41.2936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(41.1039, 41.9415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(40.9809, 39.7936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(41.1039, 40.4292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(27.3575, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>night</tspan>
+</text>
+<rect transform="translate(38.6096, 40.5436)" x="-0.0650" y="-4.3100" width="0.1300" height="2.6852" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(37.8721, 39.7936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(37.9950, 40.4415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(35.5008, 40.5436)" x="-0.0650" y="-4.3100" width="0.1300" height="2.6686" ry="0.0400" fill="currentColor"/>
+<text transform="translate(34.8862, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>the</tspan>
+</text>
+<rect transform="translate(109.7461, 52.2199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<text transform="translate(16.3474, 49.4199)" font-family="serif" font-weight="bold" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>1. </tspan>
+</text>
+<text transform="translate(20.3861, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Good</tspan>
+</text>
+<path transform="translate(19.2264, 40.5436) scale(0.0040, -0.0040)" d="M359 27c-49 0 -75 42 -75 75c0 38 27 77 72 77c4 0 9 0 14 -1c-28 37 -72 59 -120 59c-106 0 -113 -73 -113 -186v-51v-51c0 -113 7 -187 113 -187c80 0 139 70 158 151c2 7 7 10 12 10c6 0 13 -4 13 -12c0 -94 -105 -174 -183 -174c-68 0 -137 21 -184 70
+c-49 51 -66 122 -66 193s17 142 66 193c47 49 116 69 184 69c87 0 160 -63 175 -149c1 -5 1 -10 1 -14c0 -40 -30 -72 -67 -72z" fill="currentColor"/>
+<path transform="translate(15.0264, 42.0436) scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
+c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
+c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c6 5 14 5 20 0c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c4 0 9 1 13 1c155 0 256 -128 256 -261
+c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
+c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(22.9264, 41.2936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(23.0493, 41.9415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<path transform="translate(108.6543, 40.5436)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 0.2589C2.2350 -0.4596 4.0839 -0.4596 4.7668 0.2589L4.7668 0.2589C4.0839 -0.3396 2.2350 -0.3396 1.5521 0.2589z"/>
+<rect transform="translate(110.0875, 63.4199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(112.3239, 55.0199)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<text transform="translate(21.3080, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>The</tspan>
+</text>
+<text transform="translate(28.3647, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>peo</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(29.8977, 42.7936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(30.0207, 43.4292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(29.8977, 41.2936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(30.0207, 41.9415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(29.8977, 39.7936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(30.0207, 40.4292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(29.8977, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+<text transform="translate(31.9122, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(31.9122, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(31.9122, 32.3543)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(41.1039, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>heart</tspan>
+</text>
+<rect transform="translate(23.6639, 40.5436)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(16.3474, 63.4199)" font-family="serif" font-weight="bold" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>6. </tspan>
+</text>
+<text transform="translate(21.3421, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>See</tspan>
+</text>
+<text transform="translate(16.3474, 60.6199)" font-family="serif" font-weight="bold" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>5. </tspan>
+</text>
+<text transform="translate(20.7275, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>With</tspan>
+</text>
+<text transform="translate(16.3474, 57.8199)" font-family="serif" font-weight="bold" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>4. </tspan>
+</text>
+<text transform="translate(20.5227, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Near</tspan>
+</text>
+<text transform="translate(16.3474, 55.0199)" font-family="serif" font-weight="bold" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>3. </tspan>
+</text>
+<text transform="translate(21.6153, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Let</tspan>
+</text>
+<text transform="translate(16.3474, 52.2199)" font-family="serif" font-weight="bold" font-size="2.2001" text-anchor="start" fill="currentColor">
+<tspan>2. </tspan>
+</text>
+<text transform="translate(56.8359, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Heav’n</tspan>
+</text>
+<text transform="translate(65.9412, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mas</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(67.7474, 39.7936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(67.8703, 40.4292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(67.7474, 38.2936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(67.8703, 38.9292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(61.2745, 40.5436)" x="-0.0650" y="0.1414" width="0.1300" height="4.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(61.2745, 40.5436)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(66.9997, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>py</tspan>
+</text>
+<text transform="translate(59.4478, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>joy</tspan>
+</text>
+<text transform="translate(58.3211, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>shep</tspan>
+</text>
+<text transform="translate(58.1333, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>prais</tspan>
+</text>
+<text transform="translate(58.9528, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>hap</tspan>
+</text>
+<text transform="translate(57.4163, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Christ</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(60.5370, 39.7936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(60.6599, 40.4292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(60.5370, 38.2936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(60.6599, 38.9415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<text transform="translate(71.7346, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>earth,</tspan>
+</text>
+<text transform="translate(71.9395, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mind,</tspan>
+</text>
+<text transform="translate(72.4858, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>keep</tspan>
+</text>
+<text transform="translate(73.5784, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>be,</tspan>
+</text>
+<text transform="translate(72.6907, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>tide,</tspan>
+</text>
+<text transform="translate(72.2980, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>time,</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(74.7529, 41.2936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(74.8758, 41.9415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(74.7529, 39.7936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(74.8758, 40.4415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(74.7529, 38.2936)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(74.8758, 38.9176)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<text transform="translate(74.7529, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+<text transform="translate(76.7674, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(76.7674, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(76.7674, 32.3543)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(60.5370, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+<text transform="translate(62.1759, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(62.1759, 33.5436)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>m</tspan>
+</text>
+<text transform="translate(64.7366, 32.3543)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(68.4849, 40.5436)" x="-0.0650" y="0.1414" width="0.1300" height="4.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(68.4849, 40.5436)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(66.1631, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+<text transform="translate(66.8289, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ful</tspan>
+</text>
+<text transform="translate(64.9340, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>herds</tspan>
+</text>
+<text transform="translate(67.1192, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>es</tspan>
+</text>
+<rect transform="translate(49.6540, 40.5436)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(49.6540, 40.5436)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(48.9165, 42.7936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(49.0394, 43.4415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(48.9165, 41.2936)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(49.0394, 41.9415)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(48.9165, 39.7936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(49.0394, 40.4292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(41.4684, 40.5436)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(41.9684, 40.5436)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(54.6446, 40.5436)" x="-0.0650" y="1.6414" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(54.6446, 40.5436)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(53.4325, 63.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
+<text transform="translate(52.3228, 60.6199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+<text transform="translate(52.6813, 57.8199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>did</tspan>
+</text>
+<text transform="translate(52.3228, 55.0199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+<text transform="translate(52.1180, 52.2199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>that</tspan>
+</text>
+<text transform="translate(52.3228, 49.4199)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>this</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(53.9071, 41.2936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(54.0300, 41.9292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(53.9071, 38.2936)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(54.0300, 38.9292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(50.3533, 73.7679)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(113.6210, 73.7679)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(97.9017, 73.7679)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(34.2771, 73.7679)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(72.4700, 73.7679)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<line transform="translate(5.6906, 76.0179)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 74.5179)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 73.0179)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 71.5179)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<text transform="translate(97.2442, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>told,</tspan>
+</text>
+<text transform="translate(96.9369, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>kind,</tspan>
+</text>
+<text transform="translate(96.9540, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>pear,</tspan>
+</text>
+<text transform="translate(96.2028, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mirth,</tspan>
+</text>
+<text transform="translate(96.6637, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>down</tspan>
+</text>
+<text transform="translate(96.5954, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>done,</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(99.3235, 74.5179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(99.4464, 75.1659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(99.3235, 73.0179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(99.4464, 73.6659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(99.3235, 71.5179)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(99.4464, 72.1420)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<text transform="translate(99.3235, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+<text transform="translate(101.3380, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(101.3380, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(101.3380, 65.5787)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(93.1675, 73.7679)" x="-0.0650" y="0.1414" width="0.1300" height="4.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(93.1675, 73.7679)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(90.4531, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>man</tspan>
+</text>
+<text transform="translate(90.6239, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>fore</tspan>
+</text>
+<text transform="translate(91.6482, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ap</tspan>
+</text>
+<text transform="translate(91.0165, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>our</tspan>
+</text>
+<text transform="translate(90.8458, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+<text transform="translate(107.5898, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>In</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(108.1498, 71.5179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(108.2727, 72.1659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(108.1498, 73.0179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(108.2727, 73.6659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<path transform="translate(101.1256, 75.2679) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(99.8110, 73.7679)" x="-0.0650" y="1.6248" width="0.1300" height="3.8752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(100.3110, 73.7679)" x="-0.0650" y="1.6248" width="0.1300" height="3.8752" ry="0.0400" fill="currentColor"/>
+<path transform="translate(101.1256, 73.7679) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(99.8110, 73.7679)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3741" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(100.3110, 73.7679)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3741" ry="0.0400" fill="currentColor"/>
+<path transform="translate(101.1256, 70.7679) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(80.2762, 73.7679)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(78.3642, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ple</tspan>
+</text>
+<text transform="translate(77.7325, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>gels</tspan>
+</text>
+<text transform="translate(77.7325, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>gels</tspan>
+</text>
+<text transform="translate(79.5421, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>a</tspan>
+</text>
+<text transform="translate(78.2959, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ing</tspan>
+</text>
+<text transform="translate(78.4666, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>for</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(79.5387, 74.5179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(79.6616, 75.1535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(79.5387, 71.5179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(79.6616, 72.1535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(74.6293, 73.7679)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(19.1725, 88.2442)" x="0.0000" y="-0.0800" width="1.4200" height="0.0800" ry="0.0320" fill="currentColor"/>
+<text transform="translate(83.6013, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>had</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(92.4300, 73.0179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(92.5530, 73.6535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(92.4300, 71.5179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(92.5530, 72.1535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(85.9230, 73.7679)" x="-0.0650" y="0.1414" width="0.1300" height="4.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(85.9230, 73.7679)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(84.1134, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>for</tspan>
+</text>
+<text transform="translate(90.9994, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>has</tspan>
+</text>
+<text transform="translate(83.9598, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>did</tspan>
+</text>
+<text transform="translate(81.2795, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mongst</tspan>
+</text>
+<text transform="translate(84.3354, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>up</tspan>
+</text>
+<text transform="translate(84.4890, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>us</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(85.1855, 73.0179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(85.3084, 73.6535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(85.1855, 71.5179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(85.3084, 72.1659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<text transform="translate(85.1855, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>E</tspan>
+</text>
+<text transform="translate(86.8244, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(86.8244, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>m</tspan>
+</text>
+<text transform="translate(89.3851, 65.5787)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(80.2762, 73.7679)" x="-0.0650" y="1.6414" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<path transform="translate(57.2970, 73.7679)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 -5.3000C1.7500 -6.2367 3.5009 -6.2367 4.5134 -5.3000L4.5134 -5.3000C3.5009 -6.1167 1.7500 -6.1167 0.7375 -5.3000z"/>
+<rect transform="translate(55.3533, 88.2442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<polygon transform="translate(57.9695, 69.4579)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.8659 -0.2000 3.8659 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<rect transform="translate(62.1974, 88.2442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(62.2998, 96.6442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(70.1049, 82.6442)" x="0.0000" y="-0.0800" width="5.1390" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(74.1548, 85.4442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(72.3584, 88.2442)" x="0.0000" y="-0.0800" width="2.8855" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(72.5586, 91.0442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(72.5586, 93.8442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(73.2500, 96.6442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(19.1725, 96.6442)" x="0.0000" y="-0.0800" width="1.4200" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(27.1072, 88.2442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(27.0303, 91.0442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<path transform="translate(64.8488, 73.7679)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 -1.1756C2.6412 -2.0749 7.8768 -2.0749 8.9659 -1.1756L8.9659 -1.1756C7.8768 -1.9549 2.6412 -1.9549 1.5521 -1.1756z"/>
+<rect transform="translate(32.7344, 88.2442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(108.8873, 73.7679)" x="-0.0650" y="0.1248" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(108.8873, 73.7679)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(107.4021, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>To</tspan>
+</text>
+<text transform="translate(105.8315, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>They</tspan>
+</text>
+<text transform="translate(104.9267, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Which</tspan>
+</text>
+<text transform="translate(107.2313, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Re</tspan>
+</text>
+<path transform="translate(64.8488, 73.7679)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.1625 3.2500C2.3010 4.1641 8.2171 4.1641 9.3555 3.2500L9.3555 3.2500C8.2171 4.0441 2.3010 4.0441 1.1625 3.2500z"/>
+<path transform="translate(64.8488, 73.7679)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 1.1823C2.6412 2.0816 7.8768 2.0816 8.9659 1.1823L8.9659 1.1823C7.8768 1.9616 2.6412 1.9616 1.5521 1.1823z"/>
+<text transform="translate(107.4021, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>To</tspan>
+</text>
+<rect transform="translate(95.4904, 91.0442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(96.1477, 93.8442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(96.0794, 96.6442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<text transform="translate(28.3837, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ing</tspan>
+</text>
+<text transform="translate(29.2543, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>je</tspan>
+</text>
+<text transform="translate(28.2300, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>her</tspan>
+</text>
+<text transform="translate(29.1690, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>in</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(29.6265, 73.0179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(29.7494, 73.6535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(23.3726, 73.7679)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(23.8726, 73.7679)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(29.1178, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>to</tspan>
+</text>
+<rect transform="translate(23.6226, 73.7679)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8752" ry="0.0400" fill="currentColor"/>
+<path transform="translate(24.6872, 72.2679) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<text transform="translate(22.4276, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>in</tspan>
+</text>
+<text transform="translate(20.5838, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>babe</tspan>
+</text>
+<text transform="translate(20.9082, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>feed</tspan>
+</text>
+<text transform="translate(21.6252, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Ma</tspan>
+</text>
+<text transform="translate(21.3008, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+<text transform="translate(20.7716, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>bear</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(22.8851, 76.0179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(23.0080, 76.6535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(22.8851, 74.5179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(23.0080, 75.1659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(22.8851, 73.0179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(23.0080, 73.6659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<text transform="translate(34.6551, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>sty;</tspan>
+</text>
+<rect transform="translate(36.6415, 73.7679)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(37.1415, 73.7679)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<path transform="translate(37.9561, 76.7679) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(74.6293, 73.7679)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(36.6415, 73.7679)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(37.1415, 73.7679)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8752" ry="0.0400" fill="currentColor"/>
+<path transform="translate(37.9561, 72.2679) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<text transform="translate(33.4089, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>birth;</tspan>
+</text>
+<text transform="translate(34.0918, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>find,</tspan>
+</text>
+<text transform="translate(32.7943, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>sheep;</tspan>
+</text>
+<text transform="translate(22.8851, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>B</tspan>
+</text>
+<path transform="translate(24.9166, 66.4679) scale(0.0042, -0.0042)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+<text transform="translate(25.7641, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(25.7641, 65.5787)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(33.3918, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>guide</tspan>
+</text>
+<text transform="translate(33.3406, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mind,</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(36.1540, 74.5179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(36.2769, 75.1535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(36.1540, 76.0179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(36.2769, 76.6659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(36.1540, 73.0179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(36.2769, 73.6659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<text transform="translate(36.1540, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+<text transform="translate(37.6563, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(37.6563, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(37.6563, 65.5787)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<path transform="translate(30.4290, 68.1829) scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+<rect transform="translate(30.3640, 73.7679)" x="-0.0650" y="-5.6250" width="0.1300" height="3.9836" ry="0.0400" fill="currentColor"/>
+<text transform="translate(28.2642, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>His</tspan>
+</text>
+<rect transform="translate(12.2076, 85.4442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(111.7521, 88.2442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<path transform="translate(5.6906, 73.7679)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M3.5650 0.2218C4.0814 -0.3767 5.2065 -0.3767 5.7229 0.2218L5.7229 0.2218C5.2065 -0.2567 4.0814 -0.2567 3.5650 0.2218z"/>
+<rect transform="translate(12.6514, 96.6442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(12.6514, 88.2442)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(17.9999, 73.7679)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(16.9073, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ly</tspan>
+</text>
+<text transform="translate(15.9684, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>the</tspan>
+</text>
+<text transform="translate(15.6781, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+<text transform="translate(16.9073, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ly</tspan>
+</text>
+<text transform="translate(16.0196, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>gin</tspan>
+</text>
+<text transform="translate(15.6781, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(17.2624, 73.0179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(17.3853, 73.6535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(12.2280, 73.7679)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 74.5179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 75.1659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<path transform="translate(6.4906, 75.2679) scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
+c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
+c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c6 5 14 5 20 0c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c4 0 9 1 13 1c155 0 256 -128 256 -261
+c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
+c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+<text transform="translate(4.5638, 70.4431)" font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<text transform="translate(57.4199, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>time</tspan>
+</text>
+<rect transform="translate(61.8104, 73.7679)" x="-0.0650" y="-4.3100" width="0.1300" height="2.6852" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(61.0729, 73.0179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(61.1958, 73.6659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(58.0345, 73.7679)" x="-0.0650" y="-4.3100" width="0.1300" height="2.6686" ry="0.0400" fill="currentColor"/>
+<text transform="translate(57.4199, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ex</tspan>
+</text>
+<text transform="translate(57.4199, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>God’s</tspan>
+</text>
+<text transform="translate(57.4199, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>God’s</tspan>
+</text>
+<text transform="translate(57.4199, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>er</tspan>
+</text>
+<text transform="translate(57.4199, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>good</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(57.2970, 73.0179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(57.4199, 73.6535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(65.3363, 73.7679)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(65.8363, 73.7679)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(73.8919, 74.5179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(74.0148, 75.1659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(73.8919, 76.0179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(74.0148, 76.6659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(73.8919, 73.0179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(74.0148, 73.6535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(65.3363, 73.7679)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(65.8363, 73.7679)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(64.9717, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>am</tspan>
+</text>
+<text transform="translate(64.9717, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>an</tspan>
+</text>
+<text transform="translate(64.9717, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>an</tspan>
+</text>
+<text transform="translate(64.9717, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>more,</tspan>
+</text>
+<text transform="translate(64.9717, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>seek</tspan>
+</text>
+<text transform="translate(64.9717, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>God</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(64.8488, 74.5179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(64.9717, 75.1659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(64.8488, 76.0179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(64.9717, 76.6659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(64.8488, 73.0179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(64.9717, 73.6535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(44.7303, 74.5179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(44.8532, 75.1659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<text transform="translate(51.7752, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+<text transform="translate(53.7896, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(53.7896, 66.7679)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(53.7896, 65.5787)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(45.4678, 73.7679)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(44.5801, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+<text transform="translate(42.9924, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>And</tspan>
+</text>
+<text transform="translate(43.9826, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>To</tspan>
+</text>
+<text transform="translate(42.9924, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>And</tspan>
+</text>
+<text transform="translate(42.2413, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Were</tspan>
+</text>
+<text transform="translate(42.1730, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>What</tspan>
+</text>
+<path transform="translate(37.9561, 75.2679) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<text transform="translate(48.7228, 91.0442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>whom</tspan>
+</text>
+<text transform="translate(51.1469, 93.8442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>as</tspan>
+</text>
+<text transform="translate(48.8593, 96.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>sweet</tspan>
+</text>
+<rect transform="translate(52.5127, 73.7679)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(49.7812, 85.4442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>long</tspan>
+</text>
+<text transform="translate(51.0787, 88.2442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ev</tspan>
+</text>
+<text transform="translate(50.3616, 82.6442)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>our</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(51.7752, 76.0179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(51.8981, 76.6535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(51.7752, 74.5179)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(51.8981, 75.1659)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(52.2627, 73.7679)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(52.7627, 73.7679)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(51.7752, 73.0179)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(51.8981, 73.6535)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(31.2424, 108.1313)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(113.6210, 108.1313)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(89.0463, 108.1313)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(53.7884, 108.1313)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(67.7044, 108.1313)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<line transform="translate(5.6906, 110.3813)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 108.8813)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 107.3813)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 105.8813)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<rect transform="translate(95.5321, 108.1313)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8741" ry="0.0400" fill="currentColor"/>
+<text transform="translate(92.9884, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>gels</tspan>
+</text>
+<text transform="translate(93.4152, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ger</tspan>
+</text>
+<text transform="translate(93.5006, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>the</tspan>
+</text>
+<text transform="translate(93.5518, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>gin</tspan>
+</text>
+<text transform="translate(91.6227, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>things</tspan>
+</text>
+<text transform="translate(94.2176, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ly,</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(94.7946, 107.3813)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(94.9175, 108.0053)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<rect transform="translate(15.2180, 117.0076)" x="0.0000" y="-0.5500" width="0.3000" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(90.8441, 108.1313)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(91.3441, 108.1313)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(91.0941, 108.1313)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(90.3566, 110.3813)" x="-0.4917" y="-0.6603" width="2.4583" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(89.8649, 111.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>10</tspan>
+</text>
+<path transform="translate(104.3021, 106.6313) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(69.7900, 108.1313)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3908" ry="0.0400" fill="currentColor"/>
+<text transform="translate(105.4801, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>should</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(108.9080, 107.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(109.0310, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>8</tspan>
+</text>
+<rect transform="translate(102.9875, 108.1313)" x="-0.0650" y="3.1259" width="0.1300" height="3.3741" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(103.4875, 108.1313)" x="-0.0650" y="3.1259" width="0.1300" height="3.3741" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(103.2375, 108.1313)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(90.3566, 107.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(90.4795, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>8</tspan>
+</text>
+<text transform="translate(101.2743, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>did</tspan>
+</text>
+<text transform="translate(101.4279, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>He</tspan>
+</text>
+<text transform="translate(101.7011, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>an</tspan>
+</text>
+<text transform="translate(101.2401, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Ma</tspan>
+</text>
+<text transform="translate(99.8915, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>came</tspan>
+</text>
+<text transform="translate(101.4450, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>we</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(102.5000, 108.8813)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(102.6230, 109.5053)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(102.5000, 110.3813)" x="0.1229" y="-0.6365" width="1.2292" height="1.2729" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(102.6230, 111.0177)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(102.5000, 107.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(102.6230, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+<text transform="translate(102.5000, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>B</tspan>
+</text>
+<path transform="translate(104.5315, 99.9937) scale(0.0042, -0.0042)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+<text transform="translate(105.3791, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(105.3791, 99.1045)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(75.3751, 105.8813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(75.4981, 106.5169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>8</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(79.6663, 108.8813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(79.7892, 109.5169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>9</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(79.6663, 107.3813)" x="-0.4917" y="-0.6603" width="2.4583" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(79.1746, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>10</tspan>
+</text>
+<text transform="translate(79.6663, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>D</tspan>
+</text>
+<text transform="translate(81.6807, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(81.6807, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>m</tspan>
+</text>
+<text transform="translate(84.2415, 99.1045)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(76.1126, 108.1313)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(74.9006, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
+<text transform="translate(75.3786, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>a</tspan>
+</text>
+<text transform="translate(73.7909, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+<text transform="translate(74.0811, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>the</tspan>
+</text>
+<text transform="translate(73.5007, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>how</tspan>
+</text>
+<text transform="translate(74.8152, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ry</tspan>
+</text>
+<text transform="translate(79.1746, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ho</tspan>
+</text>
+<rect transform="translate(69.5400, 108.1313)" x="-0.0650" y="3.1092" width="0.1300" height="3.3908" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(70.0400, 108.1313)" x="-0.0650" y="3.1092" width="0.1300" height="3.3908" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(85.0240, 108.1313)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(85.0240, 108.1313)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(84.2865, 110.3813)" x="-0.4917" y="-0.6603" width="2.4583" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(83.7949, 111.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>10</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(84.2865, 107.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(84.4095, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>8</tspan>
+</text>
+<rect transform="translate(80.4038, 108.1313)" x="-0.0650" y="1.6414" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(80.4038, 108.1313)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(79.1746, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>An</tspan>
+</text>
+<text transform="translate(79.1746, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>man</tspan>
+</text>
+<text transform="translate(79.1746, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>go,”</tspan>
+</text>
+<text transform="translate(79.1746, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Vir</tspan>
+</text>
+<text transform="translate(79.1746, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>all</tspan>
+</text>
+<rect transform="translate(40.4191, 117.0076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(46.6820, 117.0076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(46.2936, 122.6076)" x="0.0000" y="-0.5500" width="0.6344" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(46.9551, 131.0076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(51.9718, 128.2076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(66.1450, 125.4076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(67.0413, 128.2076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(25.6379, 117.0076)" x="0.0000" y="-0.0800" width="8.1752" height="0.0800" ry="0.0320" fill="currentColor"/>
+<path transform="translate(21.2354, 108.1313)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.8689 -7.1580C1.8448 -7.5975 3.0061 -7.2041 3.5140 -6.2620L3.5140 -6.2620C2.9676 -7.0904 1.8063 -7.4838 0.8689 -7.1580z"/>
+<rect transform="translate(31.0167, 119.8076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(30.4704, 125.4076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(30.7094, 128.2076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(27.1402, 131.0076)" x="0.0000" y="-0.0800" width="6.6729" height="0.0800" ry="0.0320" fill="currentColor"/>
+<path transform="translate(21.2354, 108.1313)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 1.1701C2.7671 2.1049 9.9335 2.1049 11.1486 1.1701L11.1486 1.1701C9.9335 1.9849 2.7671 1.9849 1.5521 1.1701z"/>
+<path transform="translate(21.2354, 108.1313)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.1625 3.2500C2.4144 4.1940 10.2862 4.1940 11.5381 3.2500L11.5381 3.2500C10.2862 4.0740 2.4144 4.0740 1.1625 3.2500z"/>
+<path transform="translate(23.8804, 108.1313)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 -1.2702C1.8912 -1.7026 2.4788 -1.7026 2.8179 -1.2702L2.8179 -1.2702C2.4788 -1.5826 1.8912 -1.5826 1.5521 -1.2702z"/>
+<polygon transform="translate(21.9079, 101.9413)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="2.7350 0.7400 2.7350 1.1400 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(26.7755, 108.1313)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 -1.2044C2.3431 -1.9840 4.8175 -1.9840 5.6085 -1.2044L5.6085 -1.2044C4.8175 -1.8640 2.3431 -1.8640 1.5521 -1.2044z"/>
+<rect transform="translate(106.4615, 122.6076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(105.6079, 125.4076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<path transform="translate(109.7105, 102.5463) scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+<rect transform="translate(109.6455, 108.1313)" x="-0.0650" y="-5.6250" width="0.1300" height="3.9836" ry="0.0400" fill="currentColor"/>
+<text transform="translate(108.3140, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>re</tspan>
+</text>
+<text transform="translate(107.2214, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>was</tspan>
+</text>
+<text transform="translate(107.1019, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>gels</tspan>
+</text>
+<text transform="translate(108.3481, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ry</tspan>
+</text>
+<rect transform="translate(72.9713, 117.0076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<text transform="translate(108.3993, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>to</tspan>
+</text>
+<path transform="translate(79.6663, 108.1313)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.1025 -2.3853C2.1404 -3.3449 3.9549 -3.3449 4.9928 -2.3853L4.9928 -2.3853C3.9549 -3.2249 2.1404 -3.2249 1.1025 -2.3853z"/>
+<path transform="translate(79.6663, 108.1313)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.1025 2.3853C1.8197 3.6723 3.6529 4.2731 4.9928 3.6603L4.9928 3.6603C3.6903 4.1590 1.8571 3.5582 1.1025 2.3853z"/>
+<rect transform="translate(87.9196, 117.0076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(87.8940, 122.6076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(88.6793, 128.2076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(87.4416, 131.0076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<path transform="translate(84.2865, 108.1313)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 -1.1996C2.3868 -2.0008 5.1583 -2.0008 5.9930 -1.1996L5.9930 -1.1996C5.1583 -1.8808 2.3868 -1.8808 1.5521 -1.1996z"/>
+<path transform="translate(84.2865, 108.1313)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.1625 3.2500C2.0767 4.0865 5.4683 4.0865 6.3825 3.2500L6.3825 3.2500C5.4683 3.9665 2.0767 3.9665 1.1625 3.2500z"/>
+<text transform="translate(21.3583, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Christ</tspan>
+</text>
+<rect transform="translate(21.7229, 108.1313)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(22.2229, 108.1313)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(21.9729, 108.1313)" x="-0.0650" y="-6.1680" width="0.1300" height="3.0432" ry="0.0400" fill="currentColor"/>
+<text transform="translate(21.3583, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>bear</tspan>
+</text>
+<text transform="translate(21.3583, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Sav</tspan>
+</text>
+<text transform="translate(21.3583, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>shep</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(23.8804, 107.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(24.0033, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(21.3583, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>lodg</tspan>
+</text>
+<text transform="translate(21.3583, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>His</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(21.2354, 110.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(21.3583, 111.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(21.2354, 108.8813)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(21.3583, 109.5292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(21.2354, 105.8813)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(21.3583, 106.5292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<text transform="translate(21.2354, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+<text transform="translate(23.2499, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(23.2499, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(23.2499, 99.1045)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(17.5349, 108.1313)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3741" ry="0.0400" fill="currentColor"/>
+<text transform="translate(16.2887, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>to</tspan>
+</text>
+<text transform="translate(15.3839, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>our</tspan>
+</text>
+<text transform="translate(15.5034, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>the</tspan>
+</text>
+<rect transform="translate(33.1985, 108.1313)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(33.1985, 108.1313)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(15.4180, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ber</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(32.4610, 110.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(32.5840, 111.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(32.4610, 108.8813)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(32.5840, 109.5292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(32.4610, 107.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(32.5840, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(27.5130, 108.1313)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(26.7755, 107.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(26.8984, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(24.6179, 108.1313)" x="-0.0650" y="-5.2720" width="0.1300" height="3.6306" ry="0.0400" fill="currentColor"/>
+<text transform="translate(3.4371, 104.8065)" font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>10</tspan>
+</text>
+<rect transform="translate(111.9691, 131.0076)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<path transform="translate(6.4906, 109.6313) scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
+c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
+c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c6 5 14 5 20 0c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c4 0 9 1 13 1c155 0 256 -128 256 -261
+c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
+c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+<text transform="translate(10.2648, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>did</tspan>
+</text>
+<text transform="translate(16.8008, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>a</tspan>
+</text>
+<text transform="translate(15.5546, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ing</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(16.7974, 105.8813)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(16.9203, 106.5053)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<rect transform="translate(11.9780, 108.1313)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(12.4780, 108.1313)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(12.2280, 108.1313)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(8.9674, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>learn</tspan>
+</text>
+<text transform="translate(10.1453, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>put</tspan>
+</text>
+<text transform="translate(9.1381, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mem</tspan>
+</text>
+<text transform="translate(9.8209, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>find</tspan>
+</text>
+<text transform="translate(9.2747, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>send</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 110.3813)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 111.0292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 107.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 105.8813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 106.5169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(11.4906, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+<text transform="translate(12.9929, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(12.9929, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(12.9929, 99.1045)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(52.8939, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mind.</tspan>
+</text>
+<path transform="translate(57.5093, 109.6313) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(56.1948, 108.1313)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(56.6948, 108.1313)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<path transform="translate(57.5093, 111.1313) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(56.1948, 108.1313)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(56.6948, 108.1313)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<path transform="translate(57.5093, 106.6313) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<text transform="translate(53.3206, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>hold.</tspan>
+</text>
+<text transform="translate(53.6621, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>fear.</tspan>
+</text>
+<text transform="translate(52.9792, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>birth.</tspan>
+</text>
+<text transform="translate(52.9451, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>town.</tspan>
+</text>
+<text transform="translate(53.6450, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Son.</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(55.7073, 108.8813)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(55.8302, 109.5292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(55.7073, 110.3813)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(55.8302, 111.0292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(55.7073, 107.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(55.8302, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(55.7073, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+<text transform="translate(57.7217, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(57.7217, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(57.7217, 99.1045)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<path transform="translate(49.8286, 102.5463) scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+<text transform="translate(60.2749, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>With</tspan>
+</text>
+<text transform="translate(65.8464, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>quires</tspan>
+</text>
+<text transform="translate(68.5950, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>in</tspan>
+</text>
+<text transform="translate(66.9390, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>pare</tspan>
+</text>
+<text transform="translate(66.5122, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>night</tspan>
+</text>
+<text transform="translate(66.5293, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mark</tspan>
+</text>
+<text transform="translate(67.7926, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Ma</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(69.0525, 110.3813)" x="0.1229" y="-0.6365" width="1.2292" height="1.2729" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(69.1754, 111.0177)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(69.0525, 108.8813)" x="0.1229" y="-0.6365" width="1.2292" height="1.2729" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(69.1754, 109.5177)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+<rect transform="translate(63.2113, 108.1313)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3908" ry="0.0400" fill="currentColor"/>
+<text transform="translate(62.2553, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>If</tspan>
+</text>
+<text transform="translate(60.4115, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>“Pre</tspan>
+</text>
+<text transform="translate(60.3603, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>That</tspan>
+</text>
+<text transform="translate(61.0090, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>But</tspan>
+</text>
+<text transform="translate(60.2749, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>With</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(62.4738, 108.8813)" x="0.1229" y="-0.6365" width="1.2292" height="1.2729" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(62.5967, 109.5177)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+<rect transform="translate(43.9360, 108.1313)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<path transform="translate(45.0006, 106.6313) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<text transform="translate(41.1534, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>hum</tspan>
+</text>
+<text transform="translate(40.0778, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Christ</tspan>
+</text>
+<text transform="translate(42.7410, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>in</tspan>
+</text>
+<text transform="translate(42.7410, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>in</tspan>
+</text>
+<text transform="translate(42.0923, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>lov</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(43.1985, 108.8813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(43.3215, 109.5169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(43.1985, 110.3813)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(43.3215, 111.0292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(43.1985, 107.3813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(43.3215, 108.0169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(43.1985, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+<text transform="translate(44.7008, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(44.7008, 100.2937)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(44.7008, 99.1045)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(41.6484, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Sav</tspan>
+</text>
+<rect transform="translate(37.8865, 108.1313)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(37.1524, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>a</tspan>
+</text>
+<text transform="translate(36.1452, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ior</tspan>
+</text>
+<text transform="translate(34.3356, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>herds</tspan>
+</text>
+<text transform="translate(35.7355, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>our</tspan>
+</text>
+<text transform="translate(35.9062, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ing</tspan>
+</text>
+<text transform="translate(36.3672, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>be</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(37.1490, 105.8813)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(37.2720, 106.5169)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<text transform="translate(48.2442, 117.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ed</tspan>
+</text>
+<text transform="translate(47.7321, 119.8076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>the</tspan>
+</text>
+<text transform="translate(46.9980, 122.6076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ior’s</tspan>
+</text>
+<text transform="translate(46.4176, 125.4076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>great</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(49.0261, 107.3813)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(49.1490, 108.0292)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<text transform="translate(48.2442, 128.2076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>be</tspan>
+</text>
+<text transform="translate(47.8516, 131.0076)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ble</tspan>
+</text>
+<rect transform="translate(43.6860, 108.1313)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(44.1860, 108.1313)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(49.7636, 108.1313)" x="-0.0650" y="-5.6250" width="0.1300" height="4.0002" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(76.3376, 141.1700)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(113.6210, 141.1700)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(92.0083, 141.1700)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(27.1655, 141.1700)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<rect transform="translate(51.7141, 141.1700)" x="0.0000" y="-2.2500" width="0.1900" height="4.5000" ry="0.0000" fill="currentColor"/>
+<line transform="translate(5.6906, 143.4200)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 141.9200)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 140.4200)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<line transform="translate(5.6906, 138.9200)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1000" stroke="currentColor" x1="0.0500" y1="-0.0000" x2="108.0705" y2="-0.0000"/>
+<text transform="translate(93.4116, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+<text transform="translate(95.4261, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(95.4261, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(95.4261, 133.6451)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(93.8991, 141.1700)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(94.3991, 141.1700)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(94.1491, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(91.0079, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>prais</tspan>
+</text>
+<text transform="translate(91.3323, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>tend</tspan>
+</text>
+<text transform="translate(90.7860, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>there</tspan>
+</text>
+<text transform="translate(91.3152, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>cord</tspan>
+</text>
+<text transform="translate(91.4176, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>long</tspan>
+</text>
+<text transform="translate(91.2128, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Beth</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(93.4116, 143.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(93.5345, 144.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(93.4116, 141.9200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(93.5345, 142.5679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(93.4116, 140.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(93.5345, 141.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(106.2706, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>hem</tspan>
+</text>
+<text transform="translate(71.8845, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>A</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(106.1477, 141.9200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(106.2706, 142.5679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(106.1477, 143.4200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(106.2706, 144.0679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(106.1477, 140.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(106.2706, 141.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(103.2288, 141.1700)" x="-0.0650" y="-4.3100" width="0.1300" height="2.6852" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(102.4913, 140.4200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(102.6142, 141.0679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(99.5724, 141.1700)" x="-0.0650" y="-4.3100" width="0.1300" height="2.6686" ry="0.0400" fill="currentColor"/>
+<text transform="translate(98.9578, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>es</tspan>
+</text>
+<text transform="translate(98.9578, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ing</tspan>
+</text>
+<text transform="translate(98.9578, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>you’ll</tspan>
+</text>
+<text transform="translate(98.9578, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ing</tspan>
+</text>
+<text transform="translate(98.9578, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>fore</tspan>
+</text>
+<text transform="translate(98.9578, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>le</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(98.8349, 140.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(98.9578, 141.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(78.0842, 143.4200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(78.2071, 144.0679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(78.5717, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(79.0717, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8752" ry="0.0400" fill="currentColor"/>
+<path transform="translate(79.8863, 139.6700) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<text transform="translate(75.5439, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>voice</tspan>
+</text>
+<text transform="translate(75.7317, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>maid</tspan>
+</text>
+<text transform="translate(75.8512, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>fraid</tspan>
+</text>
+<text transform="translate(75.3391, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>child;</tspan>
+</text>
+<text transform="translate(76.5682, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>las!</tspan>
+</text>
+<text transform="translate(76.1926, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>day;</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(78.0842, 141.9200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(78.2071, 142.5556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(78.0842, 140.4200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(78.2071, 141.0679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<text transform="translate(78.0842, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>F</tspan>
+</text>
+<text transform="translate(79.5865, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(79.5865, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(79.5865, 133.6451)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<path transform="translate(72.8372, 135.5850) scale(0.0040, -0.0040)" d="M0 0v-250h-16v250h16zM0 0c0 -197 207 -336 207 -533c0 -71 -15 -141 -41 -207c-5 -8 -13 -12 -20 -12c-13 0 -26 11 -23 27c26 61 42 126 42 192c0 103 -94 208 -165 283v250z" fill="currentColor"/>
+<rect transform="translate(72.7722, 141.1700)" x="-0.0650" y="-5.6250" width="0.1300" height="3.9836" ry="0.0400" fill="currentColor"/>
+<text transform="translate(70.4504, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>and</tspan>
+</text>
+<text transform="translate(70.7919, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>gin</tspan>
+</text>
+<text transform="translate(72.0381, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>a</tspan>
+</text>
+<text transform="translate(72.0381, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>a</tspan>
+</text>
+<rect transform="translate(87.2213, 141.1700)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(84.3874, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Sing</tspan>
+</text>
+<text transform="translate(85.8556, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>At</tspan>
+</text>
+<text transform="translate(85.0873, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>For</tspan>
+</text>
+<text transform="translate(85.6336, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Ac</tspan>
+</text>
+<text transform="translate(85.7019, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>As</tspan>
+</text>
+<text transform="translate(85.9238, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>In</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(86.4838, 141.9200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(86.6067, 142.5679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<path transform="translate(79.8863, 142.6700) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(78.5717, 141.1700)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(79.0717, 141.1700)" x="-0.0650" y="3.1414" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<path transform="translate(79.8863, 144.1700) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(61.2471, 158.4463)" x="0.0000" y="-0.0800" width="1.4200" height="0.0800" ry="0.0320" fill="currentColor"/>
+<path transform="translate(41.0164, 141.1700)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.1025 -2.3853C2.6054 -3.0487 4.7596 -2.3154 5.5458 -0.8730L5.5458 -0.8730C4.7210 -2.2018 2.5667 -2.9351 1.1025 -2.3853z"/>
+<rect transform="translate(50.2342, 155.6463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<path transform="translate(46.1897, 141.1700)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 0.3094C2.4737 -0.5302 5.9291 -0.5302 6.8507 0.3094L6.8507 0.3094C5.9291 -0.4102 2.4737 -0.4102 1.5521 0.3094z"/>
+<rect transform="translate(61.2670, 152.8463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(40.3575, 164.0463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(68.9901, 161.2463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(74.7841, 152.8463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<path transform="translate(20.3902, 141.1700)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 -6.8000C1.6619 -7.6572 3.2007 -7.6572 4.1252 -6.8000L4.1252 -6.8000C3.2007 -7.5372 1.6619 -7.5372 0.7375 -6.8000z"/>
+<rect transform="translate(74.3487, 158.4463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<polygon transform="translate(21.0627, 135.3600)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.4777 -0.2000 3.4777 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(28.5688, 141.1700)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.1025 -3.6480C2.0502 -4.5323 3.6511 -4.5380 4.6050 -3.6603L4.6050 -3.6603C3.6515 -4.4180 2.0506 -4.4123 1.1025 -3.6480z"/>
+<line transform="translate(29.2413, 133.1434)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="8.6429" y1="1.0357" x2="8.6429" y2="2.0857"/>
+<line transform="translate(29.2413, 133.1434)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="-0.2979" y1="-0.0357" x2="-0.2979" y2="1.0143"/>
+<line transform="translate(29.2413, 133.1434)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="8.6429" y1="1.0357" x2="5.3276" y2="0.6384"/>
+<line transform="translate(29.2413, 133.1434)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.1600" stroke="currentColor" x1="-0.2979" y1="-0.0357" x2="3.2160" y2="0.3854"/>
+<text transform="translate(32.8505, 134.2790)" font-family="serif" font-style="italic" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(33.3655, 152.8463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(35.1495, 158.4463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(39.7600, 155.6463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(39.5637, 158.4463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(104.8279, 152.8463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(106.6352, 141.1700)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(107.1352, 141.1700)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(106.6352, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(107.1352, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(106.2706, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>to</tspan>
+</text>
+<text transform="translate(106.2706, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>on</tspan>
+</text>
+<text transform="translate(106.2706, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>find</tspan>
+</text>
+<text transform="translate(106.2706, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>un</tspan>
+</text>
+<rect transform="translate(89.7321, 155.6463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(89.6297, 161.2463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<text transform="translate(106.2706, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>told</tspan>
+</text>
+<rect transform="translate(97.6916, 150.0463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(97.6404, 155.6463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(97.6319, 161.2463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(97.7940, 164.0463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<polygon transform="translate(99.5074, 136.8600)" stroke-linejoin="round" stroke-linecap="round" stroke-width="0.0800" fill="currentColor" stroke="currentColor" points="3.7464 -0.2000 3.7464 0.2000 0.0400 0.2000 0.0400 -0.2000"/>
+<path transform="translate(98.8349, 141.1700)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M0.7375 -5.3000C1.7232 -6.2126 3.4082 -6.2126 4.3939 -5.3000L4.3939 -5.3000C3.4082 -6.0926 1.7232 -6.0926 0.7375 -5.3000z"/>
+<rect transform="translate(103.4109, 150.0463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(23.7778, 138.9200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(23.9007, 139.5556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(21.1277, 141.1700)" x="-0.0650" y="-5.8100" width="0.1300" height="2.6841" ry="0.0400" fill="currentColor"/>
+<text transform="translate(20.5131, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Well</tspan>
+</text>
+<text transform="translate(20.5131, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>And</tspan>
+</text>
+<text transform="translate(20.5131, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>“To</tspan>
+</text>
+<text transform="translate(20.5131, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Was</tspan>
+</text>
+<text transform="translate(20.5131, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>From</tspan>
+</text>
+<text transform="translate(20.5131, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>To</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(20.3902, 138.9200)" x="0.1229" y="-0.6488" width="1.2292" height="1.2976" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(20.5131, 139.5440)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>5</tspan>
+</text>
+<rect transform="translate(24.5153, 141.1700)" x="-0.0650" y="-5.8100" width="0.1300" height="2.6686" ry="0.0400" fill="currentColor"/>
+<path transform="translate(13.2926, 142.6700) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(11.9780, 141.1700)" x="-0.0650" y="3.1092" width="0.1300" height="3.3908" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(12.4780, 141.1700)" x="-0.0650" y="3.1092" width="0.1300" height="3.3908" ry="0.0400" fill="currentColor"/>
+<path transform="translate(13.2926, 144.1700) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(11.9780, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(12.4780, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<path transform="translate(13.2926, 139.6700) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<rect transform="translate(29.3063, 141.1700)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(33.5389, 141.1700)" x="-0.0650" y="-6.5000" width="0.1300" height="3.3586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(32.8014, 138.9200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(32.9243, 139.5556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<text transform="translate(70.2285, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mas</tspan>
+</text>
+<text transform="translate(8.8820, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>joice,</tspan>
+</text>
+<text transform="translate(28.6918, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>may</tspan>
+</text>
+<text transform="translate(28.6918, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>by</tspan>
+</text>
+<text transform="translate(28.6918, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Beth</tspan>
+</text>
+<text transform="translate(28.6918, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>safe</tspan>
+</text>
+<text transform="translate(28.6918, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>ev</tspan>
+</text>
+<text transform="translate(28.6918, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>God</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(28.5688, 138.9200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(28.6918, 139.5679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<path transform="translate(106.1477, 141.1700)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 -1.1973C2.5119 -2.0520 6.3135 -2.0520 7.2733 -1.1973L7.2733 -1.1973C6.3135 -1.9320 2.5119 -1.9320 1.5521 -1.1973z"/>
+<rect transform="translate(108.8431, 164.0463)" x="0.0000" y="-0.0800" width="4.6980" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(109.4576, 161.2463)" x="0.0000" y="-0.0800" width="4.0834" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(111.1648, 158.4463)" x="0.0000" y="-0.0800" width="2.3762" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(111.2205, 155.6463)" x="0.0000" y="-0.5500" width="0.6600" height="0.1300" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(111.1989, 152.8463)" x="0.0000" y="-0.0800" width="2.3421" height="0.0800" ry="0.0320" fill="currentColor"/>
+<rect transform="translate(111.7794, 150.0463)" x="0.0000" y="-0.0800" width="1.7616" height="0.0800" ry="0.0320" fill="currentColor"/>
+<path transform="translate(106.1477, 141.1700)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 3.0000C2.5119 3.8547 6.3135 3.8547 7.2733 3.0000L7.2733 3.0000C6.3135 3.7347 2.5119 3.7347 1.5521 3.0000z"/>
+<text transform="translate(9.5307, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>laid,</tspan>
+</text>
+<text transform="translate(9.2917, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>said,</tspan>
+</text>
+<text transform="translate(9.0869, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>mild,</tspan>
+</text>
+<text transform="translate(9.0356, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>pass:</tspan>
+</text>
+<text transform="translate(9.4112, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>pray</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 141.9200)" x="0.1229" y="-0.6365" width="1.2292" height="1.2729" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 142.5564)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>7</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 143.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 144.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>8</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(11.4906, 140.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(11.6135, 141.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>6</tspan>
+</text>
+<path transform="translate(6.4906, 142.6700) scale(0.0040, -0.0040)" d="M266 -635h-6c-108 0 -195 88 -195 197c0 58 53 103 112 103c54 0 95 -47 95 -103c0 -52 -43 -95 -95 -95c-11 0 -21 2 -31 6c26 -39 68 -65 117 -65h4zM461 -203c68 24 113 95 113 164c0 90 -66 179 -173 190c24 -116 46 -231 60 -354zM74 28c0 -135 129 -247 264 -247
+c28 0 55 2 82 6c-14 127 -37 245 -63 364c-79 -8 -124 -61 -124 -119c0 -44 25 -91 81 -123c5 -5 7 -10 7 -15c0 -11 -10 -22 -22 -22c-3 0 -6 1 -9 2c-80 43 -117 115 -117 185c0 88 58 174 160 197c-14 58 -29 117 -46 175c-107 -121 -213 -243 -213 -403zM335 -262
+c-188 0 -333 172 -333 374c0 177 131 306 248 441c-19 62 -37 125 -45 190c-6 52 -7 104 -7 156c0 115 55 224 149 292c6 5 14 5 20 0c71 -84 133 -245 133 -358c0 -143 -86 -255 -180 -364c21 -68 39 -138 56 -207c4 0 9 1 13 1c155 0 256 -128 256 -261
+c0 -76 -33 -154 -107 -210c-22 -17 -47 -28 -73 -36c3 -35 5 -70 5 -105c0 -19 -1 -39 -2 -58c-7 -119 -88 -225 -202 -228l1 43c93 2 153 92 159 191c1 18 2 37 2 55c0 31 -1 61 -4 92c-29 -5 -58 -8 -89 -8zM428 916c0 55 -4 79 -20 129c-99 -48 -162 -149 -162 -259
+c0 -74 18 -133 36 -194c80 97 146 198 146 324z" fill="currentColor"/>
+<text transform="translate(3.4371, 137.8452)" font-family="serif" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>15</tspan>
+</text>
+<path transform="translate(106.1477, 141.1700)" stroke-width="0.0800" stroke-linejoin="round" stroke-linecap="round" stroke="currentColor" fill="currentColor" d="M1.5521 1.1973C2.5119 2.0520 6.3135 2.0520 7.2733 1.1973L7.2733 1.1973C6.3135 1.9320 2.5119 1.9320 1.5521 1.1973z"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(58.7907, 140.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(58.9137, 141.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>0</tspan>
+</text>
+<rect transform="translate(59.5282, 141.1700)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(59.5282, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(56.7797, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>with</tspan>
+</text>
+<text transform="translate(57.4967, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>the</tspan>
+</text>
+<text transform="translate(57.8894, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Be</tspan>
+</text>
+<text transform="translate(57.0187, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>er’d</tspan>
+</text>
+<text transform="translate(58.1966, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>re</tspan>
+</text>
+<text transform="translate(57.2065, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>this</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(58.7907, 143.4200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(58.9137, 144.0679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(53.8550, 141.1700)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<text transform="translate(62.7951, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>heart</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(72.0347, 140.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(72.1576, 141.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<rect transform="translate(65.9082, 141.1700)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(66.4082, 141.1700)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(66.1582, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8752" ry="0.0400" fill="currentColor"/>
+<path transform="translate(67.2227, 139.6700) scale(0.0040, -0.0040)" d="M0 0c0 31 25 56 56 56s56 -25 56 -56s-25 -56 -56 -56s-56 25 -56 56z" fill="currentColor"/>
+<text transform="translate(64.4681, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>vir</tspan>
+</text>
+<text transform="translate(64.1096, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>not</tspan>
+</text>
+<text transform="translate(64.9461, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>of</tspan>
+</text>
+<text transform="translate(62.3341, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>pelled</tspan>
+</text>
+<text transform="translate(62.3000, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>Christ</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(65.4207, 141.9200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(65.5436, 142.5679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(65.4207, 143.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(65.5436, 144.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(65.4207, 140.4200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(65.5436, 141.0679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>1</tspan>
+</text>
+<text transform="translate(65.4207, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>B</tspan>
+</text>
+<path transform="translate(67.4521, 134.5343) scale(0.0042, -0.0042)" d="M27 41l-1 -66v-11c0 -22 1 -44 4 -66c45 38 93 80 93 139c0 33 -14 67 -43 67c-31 0 -52 -30 -53 -63zM-15 -138l-12 595c8 5 18 8 27 8s19 -3 27 -8l-7 -345c25 21 58 34 91 34c52 0 89 -48 89 -102c0 -80 -86 -117 -147 -169c-15 -13 -24 -38 -45 -38
+c-13 0 -23 11 -23 25z" fill="currentColor"/>
+<text transform="translate(68.2997, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(68.2997, 133.6451)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(41.0164, 143.4200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(41.1393, 144.0679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>4</tspan>
+</text>
+<rect transform="translate(41.7539, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<text transform="translate(41.1393, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>kind</tspan>
+</text>
+<text transform="translate(41.1393, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>side</tspan>
+</text>
+<text transform="translate(41.1393, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>hem.</tspan>
+</text>
+<text transform="translate(41.1393, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>liv</tspan>
+</text>
+<text transform="translate(41.1393, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>door</tspan>
+</text>
+<text transform="translate(41.1393, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>love</tspan>
+</text>
+<text transform="translate(35.8313, 152.8463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>’ry</tspan>
+</text>
+<text transform="translate(36.0020, 155.6463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>de</tspan>
+</text>
+<text transform="translate(36.3946, 158.4463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>le</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(41.0164, 140.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(41.1393, 141.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(35.4216, 161.2463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>His</tspan>
+</text>
+<text transform="translate(34.8070, 164.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>man</tspan>
+</text>
+<text transform="translate(41.0164, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan>G</tspan>
+</text>
+<text transform="translate(43.0309, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(43.0309, 134.8343)" font-family="sans-serif" font-size="2.6163" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<text transform="translate(43.0309, 133.6451)" font-family="sans-serif" font-size="1.8500" text-anchor="start" fill="currentColor">
+<tspan/>
+</text>
+<rect transform="translate(37.5214, 141.1700)" x="-0.0650" y="-5.5000" width="0.1300" height="3.8586" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(53.1175, 141.9200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(53.2404, 142.5679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<rect transform="translate(46.9272, 141.1700)" x="-0.0650" y="-4.5000" width="0.1300" height="4.3752" ry="0.0400" fill="currentColor"/>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(46.1897, 141.9200)" x="0.1229" y="-0.6480" width="1.2292" height="1.2959" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(46.3126, 142.5679)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>2</tspan>
+</text>
+<g color="rgb(100.0000%, 100.0000%, 100.0000%)">
+<rect transform="translate(36.7839, 140.4200)" x="0.1229" y="-0.6603" width="1.2292" height="1.3207" ry="0.0000" fill="currentColor"/>
+</g>
+<text transform="translate(36.9068, 141.0556)" font-family="serif" font-weight="bold" font-size="1.7461" text-anchor="start" fill="currentColor">
+<tspan>3</tspan>
+</text>
+<text transform="translate(34.7728, 150.0463)" font-family="serif" font-size="2.4696" text-anchor="start" fill="currentColor">
+<tspan>with</tspan>
+</text>
+<rect transform="translate(41.5039, 141.1700)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+<rect transform="translate(42.0039, 141.1700)" x="-0.0650" y="3.1248" width="0.1300" height="3.3752" ry="0.0400" fill="currentColor"/>
+</svg>
